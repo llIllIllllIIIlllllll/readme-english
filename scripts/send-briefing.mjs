@@ -18,7 +18,9 @@ import { createTransport } from "nodemailer";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const root = join(__dirname, "..");
-const today = new Date().toISOString().slice(0, 10);
+const today = new Intl.DateTimeFormat("en-CA", {
+  timeZone: "Asia/Seoul",
+}).format(new Date());
 
 async function loadBriefingMd() {
   const preferred = join(root, "briefings", `${today}.md`);
@@ -60,6 +62,7 @@ Naver example (PowerShell):
     host,
     port,
     secure: port === 465,
+    requireTLS: port === 587,
     auth: { user, pass },
   });
 

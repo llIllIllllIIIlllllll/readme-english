@@ -18,23 +18,26 @@ npx serve .
 
 ## Daily briefing + email
 
+**GitHub Actions**가 매일 07:00 KST에 트렌딩을 모아 `briefings/`·`data/`를 갱신하고, 메일을 보낸 뒤 `main`에 커밋합니다.  
+Actions → *Daily OSS briefing* → **Run workflow**로 수동 실행도 가능합니다.
+
+필요한 repo secrets:
+
+| Secret | 예시 |
+|---|---|
+| `SMTP_USER` | `alias0223@naver.com` |
+| `SMTP_PASS` | 네이버 앱 비밀번호 |
+| `SMTP_HOST` | `smtp.naver.com` |
+| `SMTP_PORT` | `465` |
+| `SMTP_TO` | `alias0223@naver.com` |
+| `SMTP_FROM` | (선택, 기본=SMTP_USER) |
+
+로컬 실행:
+
 ```bash
 npm install
-node scripts/fetch-trending.mjs   # writes briefings/YYYY-MM-DD.md + data/briefing-today.json
+npm run daily
 ```
-
-Naver SMTP (앱 비밀번호 필요):
-
-```powershell
-$env:SMTP_USER = "your-id@naver.com"
-$env:SMTP_PASS = "your-app-password"
-$env:SMTP_HOST = "smtp.naver.com"
-$env:SMTP_PORT = "465"
-$env:SMTP_TO = "alias0223@naver.com"
-node scripts/send-briefing.mjs
-```
-
-Or: `npm run daily`
 
 ## Repo layout
 

@@ -13,7 +13,9 @@ const UA = {
   Accept: "text/html,application/json",
 };
 
-const today = new Date().toISOString().slice(0, 10);
+const today = new Intl.DateTimeFormat("en-CA", {
+  timeZone: "Asia/Seoul",
+}).format(new Date());
 
 function ko(name, en) {
   // Lightweight Korean one-liners for known patterns; fall back to EN.
