@@ -1,0 +1,27 @@
+{
+  "goal3000": 3000,
+  "goal10000": 10000,
+  "coverageNote": "Master ~3,000 common words to aim for ~95% of spoken English; ~10,000 for ~99%.",
+  "words": [
+    { "w": "build", "pos": "v", "ko": "만들다, 구축하다", "ex": "Build your own AI office with this SDK." },
+    { "w": "framework", "pos": "n", "ko": "프레임워크", "ex": "It is a multi-agent framework." },
+    { "w": "agent", "pos": "n", "ko": "에이전트", "ex": "Coding agents can help you ship faster." },
+    { "w": "repository", "pos": "n", "ko": "저장소(레포)", "ex": "This repository is trending on GitHub today." },
+    { "w": "open-source", "pos": "adj", "ko": "오픈소스의", "ex": "It is an open-source download manager." },
+    { "w": "skill", "pos": "n", "ko": "스킬, 기술", "ex": "Install the skill for your coding agent." },
+    { "w": "deploy", "pos": "v", "ko": "배포하다", "ex": "Deploy the service to production." },
+    { "w": "workflow", "pos": "n", "ko": "워크플로", "ex": "Automate your workflow with n8n." },
+    { "w": "runtime", "pos": "n", "ko": "런타임", "ex": "The app runs on desktop and mobile runtime." },
+    { "w": "optimize", "pos": "v", "ko": "최적화하다", "ex": "Optimize inference with this toolkit." },
+    { "w": "install", "pos": "v", "ko": "설치하다", "ex": "Install the package with one command." },
+    { "w": "feature", "pos": "n", "ko": "기능", "ex": "This feature helps beginners speak aloud." },
+    { "w": "document", "pos": "n/v", "ko": "문서 / 문서화하다", "ex": "Read the README document carefully." },
+    { "w": "summary", "pos": "n", "ko": "요약", "ex": "The agent writes a grounded summary." },
+    { "w": "control", "pos": "v/n", "ko": "제어하다 / 제어", "ex": "Control Claude Code from your phone." },
+    { "w": "support", "pos": "v/n", "ko": "지원하다 / 지원", "ex": "The tool supports Windows and Linux." },
+    { "w": "modern", "pos": "adj", "ko": "현대적인", "ex": "Modern Docker management for everyone." },
+    { "w": "security", "pos": "n", "ko": "보안", "ex": "Security matters in agent workflows." },
+    { "w": "performance", "pos": "n", "ko": "성능", "ex": "Improve agent harness performance." },
+    { "w": "release", "pos": "n/v", "ko": "출시 / 출시하다", "ex": "Check the latest release notes." }
+  ]
+}

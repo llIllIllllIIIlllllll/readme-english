@@ -1,0 +1,16 @@
+{
+  "name": "readme-english",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Personalized English for reading GitHub READMEs — morning speaking + common words + OSS daily briefing",
+  "scripts": {
+    "briefing": "node scripts/fetch-trending.mjs",
+    "email": "node scripts/send-briefing.mjs",
+    "daily": "node scripts/fetch-trending.mjs && node scripts/send-briefing.mjs",
+    "serve": "npx --yes serve ."
+  },
+  "dependencies": {
+    "nodemailer": "^6.10.1"
+  }
+}

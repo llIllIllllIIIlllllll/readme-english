@@ -1,0 +1,147 @@
+{
+  "date": "2026-11-18",
+  "multi": [
+    {
+      "fullName": "google-research/paper-orchestra",
+      "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "descriptionKo": "AI 연구 논문 자동 작성 멀티 에이전트",
+      "sources": [
+        "github",
+        "gittrend",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "mvanhorn/last30days-skill",
+      "description": "",
+      "descriptionKo": "소셜·웹에서 주제를 조사해 요약하는 AI 스킬",
+      "sources": [
+        "github",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "getarcaneapp/arcane",
+      "description": "",
+      "descriptionKo": "모던 Docker 관리 도구",
+      "sources": [
+        "github",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "affaan-m/ECC",
+      "description": "",
+      "descriptionKo": "에이전트 하네스 성능·스킬·보안 최적화",
+      "sources": [
+        "github",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "krisgfx9/Wireless-Device-Battery-Monitor",
+      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
+      "descriptionKo": "윈도우 작업표시줄 무선 기기 배터리 모니터",
+      "sources": [
+        "gittrend",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "BaaRai/ARTEX",
+      "description": "ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0)",
+      "descriptionKo": "AI 자율 침투 테스트(펜테스트) 시스템",
+      "sources": [
+        "gittrend",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "elementalsouls/Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "descriptionKo": "Claude Code용 버그 헌팅·레드팀 스킬 번들",
+      "sources": [
+        "gittrend",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "ccch1mneyyy/dsh-Go",
+      "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+      "descriptionKo": "폰에서 DeepSeek Harness + PC 원격 제어",
+      "sources": [
+        "gittrend",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "dream-num/univer",
+      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "descriptionKo": "AI 오피스용 Univer Office SDK",
+      "sources": [
+        "gittrend",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "stablyai/orca",
+      "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
+      "descriptionKo": "코딩 에이전트 플릿 데스크톱·모바일 런타임",
+      "sources": [
+        "gittrend",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "nexu-io/openmotion",
+      "description": "The open-source Claude Motion & CapCut alternative. Turn a reference video into editable motion graphics with your brand kit. Export MP4s for YouTube, YouTube Shorts, Instagram Reels, and TikTok. A full-stack agentic video studio with 300+ Motion.md guides and support for 22 agents, including Claude Code, Codex, DSH, and WorkBuddy.",
+      "descriptionKo": "레퍼런스 영상→모션 그래픽 오픈소스 스튜디오",
+      "sources": [
+        "gittrend",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "anefzaoui/misterdownloadmanager",
+      "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
+      "descriptionKo": "Rust 크로스플랫폼 다운로드 매니저",
+      "sources": [
+        "gittrend",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "Tencent/LoopForge",
+      "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+      "descriptionKo": "코딩 에이전트 셀프호스트 워크플로 + 승인 게이트",
+      "sources": [
+        "gittrend",
+        "trendshift"
+      ]
+    }
+  ],
+  "morning": [
+    {
+      "id": "m-2026-11-18-0",
+      "project": "google-research/paper-orchestra",
+      "english": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "korean": "AI 연구 논문 자동 작성 멀티 에이전트",
+      "url": "https://github.com/google-research/paper-orchestra"
+    },
+    {
+      "id": "m-2026-11-18-1",
+      "project": "mvanhorn/last30days-skill",
+      "english": "last30days-skill is a trending open-source project on GitHub today.",
+      "korean": "소셜·웹에서 주제를 조사해 요약하는 AI 스킬",
+      "url": "https://github.com/mvanhorn/last30days-skill"
+    }
+  ],
+  "counts": {
+    "github": 19,
+    "gittrend": 20,
+    "trendshift": 29,
+    "starhistory": 0,
+    "unique": 54,
+    "multi": 13
+  }
+}
