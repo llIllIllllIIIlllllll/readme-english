@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>README English</title>
+    <title>README English — Comprehensible Input</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -18,7 +18,7 @@
     <header class="top">
       <a class="logo" href="#home">README English</a>
       <nav>
-        <a href="#morning">아침 말하기</a>
+        <a href="#morning">아침 인풋</a>
         <a href="#words">단어</a>
         <a href="#briefing">브리핑</a>
       </nav>
@@ -30,59 +30,179 @@
           <p class="brand">README English</p>
           <h1>Read any README out loud — one morning at a time.</h1>
           <p class="lede">
-            Whether you’re learning your first English words, building speaking
-            confidence, or improving your business English, this app creates a
-            personalized daily plan for YOU.
+            무작정 외우거나 억지로 말하지 않습니다.
+            오늘 트렌딩 README의 핵심 어휘를 담은 <strong>이해 가능한 입력(Comprehensible Input)</strong>을
+            먼저 귀로 듣고 문맥으로 파악한 뒤, 자연스럽게 입으로 소리 냅니다.
           </p>
           <div class="cta-row">
-            <a class="btn primary" href="#morning">오늘 아침 1–2문장</a>
+            <a class="btn primary" href="#morning">오늘 아침 CI 세션 (5–10분)</a>
             <a class="btn ghost" href="#words">3,000 → 10,000 단어</a>
           </div>
         </div>
         <div class="hero-visual" aria-hidden="true">
           <pre class="readme-pane">
-<span class="c-h"># Claude-BugHunter</span>
-<span class="c-p">A Claude Code skill bundle</span>
-<span class="c-p">for bug hunting and</span>
-<span class="c-p">external red-team work.</span>
+<span class="c-h"># PaperOrchestra</span>
+<span class="c-p">A multi-agent framework</span>
+<span class="c-p">for automated AI</span>
+<span class="c-p">research paper writing.</span>
 
-<span class="c-m">## Why it matters</span>
-<span class="c-p">Speak it. Then read it.</span>
+<span class="c-m">## CI Loop</span>
+<span class="c-p">Listen slow → Context → Speak.</span>
           </pre>
         </div>
       </section>
 
       <section class="promise" id="promise">
-        <h2>목표: GitHub README를 혼자 읽을 수 있을 때까지</h2>
+        <h2>원리: Comprehensible Input (i+1)으로 읽히는 영어를 만듭니다</h2>
         <p>
-          자주 쓰이는 영어 단어 3,000개로 구어의 약 95%를 인식하는 쪽으로,
-          이어서 10,000개로 약 99%를 겨냥합니다. Volka English처럼
-          <strong>듣고 → 따라 말하고 → 짧게 반복</strong>합니다.
+          언어 습득의 열쇠는 <strong>충분한 양의 이해 가능한 입력(Comprehensible Input)</strong>입니다.
+          어려운 보안·시스템 전문 용어부터 던지지 않고, 쉬운 기본 문형(Easy, i)으로 핵심 어휘를 익힌 뒤
+          실전 README 문장(Mid, i+1)으로 부드럽게 올라갑니다.
+          <strong>듣기(1.0x / 0.8x / 0.65x) → 문맥 파악(단어 힌트) → 가벼운 이해 확인 → (선택) 따라 말하기</strong>의
+          순서로 학습하세요.
         </p>
       </section>
 
       <section class="morning" id="morning">
         <div class="section-head">
-          <p class="eyebrow">Morning speak · 5분</p>
-          <h2>입으로 한두 문장</h2>
+          <p class="eyebrow">Comprehensible Input · 아침 5–10분</p>
+          <h2>오늘의 README 인풋 세션</h2>
           <p class="sub">
-            오늘 트렌딩 README에서 뽑은 문장입니다. 듣고, 따라 말하고, 녹음해
-            비교하세요.
+            오늘 트렌딩 README의 고빈도 단어들이 여러 문장에 걸쳐 반복됩니다.
+            소리를 먼저 듣고 문맥으로 뜻을 잡은 뒤, 편안하게 입으로 소리 내어 보세요.
           </p>
         </div>
 
-        <div class="speak-stage" id="speak-stage">
-          <p class="project-tag" id="project-tag">loading…</p>
-          <p class="sentence en" id="sentence-en"></p>
-          <p class="sentence ko" id="sentence-ko"></p>
-          <div class="speak-actions">
-            <button type="button" class="btn primary" id="btn-listen">듣기</button>
-            <button type="button" class="btn" id="btn-shadow">따라 말하기</button>
-            <button type="button" class="btn" id="btn-record">녹음</button>
-            <button type="button" class="btn ghost" id="btn-next">다음 문장</button>
+        <!-- Mode & Level Bar -->
+        <div class="ci-controls">
+          <div class="level-tabs" role="tablist" aria-label="난이도 선택">
+            <button type="button" class="tab-btn active" id="tab-easy" data-level="easy">
+              🌱 Easy (i) · 입문
+            </button>
+            <button type="button" class="tab-btn" id="tab-mid" data-level="mid">
+              🚀 Mid (i+1) · 실전 README
+            </button>
+            <button type="button" class="tab-btn" id="tab-all" data-level="all">
+              📚 전체 보기
+            </button>
+            <button type="button" class="tab-btn ghost-tab" id="tab-passage" data-view="passage">
+              📖 5분 미니 패시지
+            </button>
           </div>
-          <p class="hint" id="speak-hint">먼저 듣기를 눌러 리듬을 잡으세요.</p>
-          <audio id="playback" hidden></audio>
+
+          <!-- Recycled vocabulary strip -->
+          <div class="recycled-strip" id="recycled-strip">
+            <span class="strip-label">오늘 반복 어휘:</span>
+            <div class="strip-chips" id="strip-chips"></div>
+          </div>
+        </div>
+
+        <!-- Graded Sentence Stage -->
+        <div class="speak-stage" id="speak-stage">
+          <div class="stage-top-meta">
+            <a class="project-tag" id="project-tag" target="_blank" rel="noreferrer">loading…</a>
+            <div class="stage-badges">
+              <span class="badge-level" id="badge-level">Easy (i)</span>
+              <span class="stage-counter" id="stage-counter">1 / 7</span>
+            </div>
+          </div>
+
+          <!-- Target English Sentence -->
+          <div class="sentence-en-container">
+            <p class="sentence en" id="sentence-en"></p>
+          </div>
+
+          <!-- On-demand gloss popover/hint -->
+          <div class="gloss-box" id="gloss-box" hidden>
+            <span class="gloss-icon">💡</span>
+            <span class="gloss-content" id="gloss-content"></span>
+            <button type="button" class="gloss-close" id="btn-close-gloss" aria-label="닫기">×</button>
+          </div>
+
+          <!-- STEP 1: Input (Audio / Speed) -->
+          <div class="ci-step-group">
+            <div class="step-header">
+              <span class="step-badge">Step 1</span>
+              <span class="step-title">귀로 먼저 듣기 (Input)</span>
+            </div>
+            <div class="audio-actions">
+              <button type="button" class="btn primary" id="btn-listen">
+                <span class="icon">▶</span> 듣기 (1.0x)
+              </button>
+              <button type="button" class="btn" id="btn-listen-slow">
+                <span class="icon">🐢</span> 0.8x 천천히
+              </button>
+              <button type="button" class="btn" id="btn-listen-slower">
+                <span class="icon">🐌</span> 0.65x 2배 느리게
+              </button>
+            </div>
+          </div>
+
+          <!-- STEP 2: Meaning from context (Gloss & Toggle Translation & Light Check) -->
+          <div class="ci-step-group">
+            <div class="step-header">
+              <span class="step-badge">Step 2</span>
+              <span class="step-title">문맥으로 뜻 파악하기</span>
+              <span class="step-tip">밑줄 친 단어를 누르면 뜻 힌트가 뜹니다</span>
+            </div>
+
+            <div class="translation-toggle-row">
+              <button type="button" class="btn ghost" id="btn-toggle-ko">
+                👁️ 한국어 전문 번역 보기
+              </button>
+            </div>
+            <div class="sentence-ko-wrap is-hidden" id="sentence-ko-wrap">
+              <p class="sentence ko" id="sentence-ko"></p>
+            </div>
+
+            <!-- Lightweight comprehension check -->
+            <div class="check-box" id="check-box">
+              <p class="check-title">💡 문맥 이해 확인 (가볍게 1-Tap)</p>
+              <p class="check-q" id="check-q"></p>
+              <div class="check-options" id="check-options"></div>
+              <p class="check-feedback" id="check-feedback"></p>
+            </div>
+          </div>
+
+          <!-- STEP 3: Optional Output (Shadow & Record) -->
+          <div class="ci-step-group output-group">
+            <div class="step-header">
+              <span class="step-badge optional">Step 3 (선택)</span>
+              <span class="step-title">입으로 소리 내기 (Output)</span>
+            </div>
+            <div class="speak-actions">
+              <button type="button" class="btn" id="btn-shadow">🗣️ 따라 말하기 (Shadowing)</button>
+              <button type="button" class="btn" id="btn-record">🎙️ 내 발음 녹음</button>
+            </div>
+            <audio id="playback" hidden controls></audio>
+          </div>
+
+          <!-- Nav footer -->
+          <div class="stage-nav">
+            <button type="button" class="btn ghost" id="btn-prev">◀ 이전 문장</button>
+            <p class="hint" id="speak-hint">소리를 듣고 밑줄 단어를 탭해 문맥을 느껴보세요.</p>
+            <button type="button" class="btn primary" id="btn-next">다음 문장 ▶</button>
+          </div>
+        </div>
+
+        <!-- Mini-Passage Stage (Shown when passage tab is selected) -->
+        <div class="passage-stage is-hidden" id="passage-stage">
+          <div class="passage-head">
+            <p class="eyebrow">5-Minute Cohesive Reading & Listening</p>
+            <h3 id="passage-title">Today's OSS Story</h3>
+          </div>
+          <p class="passage-text en" id="passage-text"></p>
+          <div class="passage-actions">
+            <button type="button" class="btn primary" id="btn-passage-listen">
+              ▶ 패시지 전체 연속 듣기
+            </button>
+            <button type="button" class="btn ghost" id="btn-passage-toggle-ko">
+              👁️ 패시지 한국어 해석 보기
+            </button>
+          </div>
+          <div class="passage-ko is-hidden" id="passage-ko-wrap">
+            <p id="passage-ko"></p>
+          </div>
         </div>
       </section>
 
@@ -99,6 +219,10 @@
           <p class="eyebrow">Common words</p>
           <h2>README에 자주 나오는 단어</h2>
           <p class="sub" id="word-progress">진행도 로딩 중…</p>
+        </div>
+        <div class="word-filters">
+          <button type="button" class="tab-btn active" id="word-filter-all">전체 빈출 단어</button>
+          <button type="button" class="tab-btn" id="word-filter-today">🔥 오늘 아침 등장 단어</button>
         </div>
         <div class="word-grid" id="word-grid"></div>
       </section>

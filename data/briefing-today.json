@@ -122,18 +122,440 @@
   ],
   "morning": [
     {
-      "id": "m-2026-11-18-0",
+      "id": "m-2026-11-18-e-0",
       "project": "google-research/paper-orchestra",
-      "english": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
-      "korean": "AI 연구 논문 자동 작성 멀티 에이전트",
-      "url": "https://github.com/google-research/paper-orchestra"
+      "level": "easy",
+      "english": "PaperOrchestra is a multi-agent framework to build and write AI research papers.",
+      "korean": "PaperOrchestra는 AI 연구 논문을 작성하고 구축하기 위한 멀티 에이전트 프레임워크입니다.",
+      "url": "https://github.com/google-research/paper-orchestra",
+      "recycledWords": [
+        "framework",
+        "agent",
+        "build"
+      ],
+      "gloss": {
+        "framework": "프레임워크 (개발 뼈대·기본 구조)",
+        "agent": "에이전트 (스스로 행동하는 AI 프로그램)",
+        "build": "만들다, 구축하다"
+      },
+      "checkQuestion": {
+        "q": "PaperOrchestra의 주된 역할은 무엇인가요?",
+        "options": [
+          "AI 연구 논문 작성 자동화",
+          "클라우드 서버 인프라 관리"
+        ],
+        "answer": 0
+      }
     },
     {
-      "id": "m-2026-11-18-1",
-      "project": "mvanhorn/last30days-skill",
-      "english": "last30days-skill is a trending open-source project on GitHub today.",
-      "korean": "소셜·웹에서 주제를 조사해 요약하는 AI 스킬",
-      "url": "https://github.com/mvanhorn/last30days-skill"
+      "id": "m-2026-11-18-m-1",
+      "project": "google-research/paper-orchestra",
+      "level": "mid",
+      "english": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "korean": "PaperOrchestra는 AI 연구 논문 작성을 자동화하기 위한 멀티 에이전트 프레임워크입니다.",
+      "url": "https://github.com/google-research/paper-orchestra",
+      "recycledWords": [
+        "framework",
+        "agent",
+        "automated"
+      ],
+      "gloss": {
+        "framework": "프레임워크 (개발 뼈대·기본 구조)",
+        "agent": "에이전트 (스스로 행동하는 AI 프로그램)",
+        "automated": "자동화된"
+      },
+      "checkQuestion": {
+        "q": "이 프레임워크의 아키텍처 형태는?",
+        "options": [
+          "멀티 에이전트 (여러 AI 협업)",
+          "단일 스레드 CLI"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-18-e-2",
+      "project": "krisgfx9/Wireless-Device-Battery-Monitor",
+      "level": "easy",
+      "english": "This lightweight tray app monitors battery levels of wireless devices without extra software.",
+      "korean": "이 가벼운 트레이 앱은 추가 소프트웨어 없이 무선 기기의 배터리 잔량을 모니터링합니다.",
+      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+      "recycledWords": [
+        "lightweight"
+      ],
+      "gloss": {
+        "lightweight": "가벼운, 경량의"
+      },
+      "checkQuestion": {
+        "q": "이 앱의 장점은 무엇인가요?",
+        "options": [
+          "제조사 소프트웨어 없이 가볍게 작동",
+          "복잡한 서버 설정 필수"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-18-m-3",
+      "project": "krisgfx9/Wireless-Device-Battery-Monitor",
+      "level": "mid",
+      "english": "Lightweight tray app to show battery levels of wireless mice, keyboards and controllers on the taskbar with no vendor software needed.",
+      "korean": "전용 소프트웨어 없이 작업표시줄에 무선 마우스, 키보드, 컨트롤러의 배터리 잔량을 표시하는 경량 트레이 앱입니다.",
+      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+      "recycledWords": [
+        "lightweight"
+      ],
+      "gloss": {
+        "lightweight": "가벼운, 경량의"
+      },
+      "checkQuestion": {
+        "q": "어떤 기기들의 배터리를 볼 수 있나요?",
+        "options": [
+          "무선 마우스, 키보드, 컨트롤러",
+          "스마트 TV 및 냉장고"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-18-e-4",
+      "project": "elementalsouls/Claude-BugHunter",
+      "level": "easy",
+      "english": "BugHunter is a skill bundle for bug hunting and external red-team security work.",
+      "korean": "BugHunter는 버그 헌팅과 외부 레드팀 보안 작업을 위한 스킬 번들입니다.",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "recycledWords": [
+        "security",
+        "skill",
+        "bundle"
+      ],
+      "gloss": {
+        "security": "보안 (취약점 방어)",
+        "skill": "스킬 (에이전트 확장 기능)",
+        "bundle": "묶음, 번들"
+      },
+      "checkQuestion": {
+        "q": "이 프로젝트의 주요 목적은?",
+        "options": [
+          "보안 버그 탐색 및 레드팀 작업",
+          "음악 작곡"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-18-m-5",
+      "project": "elementalsouls/Claude-BugHunter",
+      "level": "mid",
+      "english": "A Claude Code skill bundle for bug hunting and external red-team work curated across core vulnerability classes.",
+      "korean": "핵심 취약점 분류 전반에 걸쳐 선별된, 버그 헌팅 및 외부 레드팀 작업을 위한 Claude Code 스킬 번들입니다.",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "recycledWords": [
+        "skill",
+        "bundle",
+        "vulnerability"
+      ],
+      "gloss": {
+        "skill": "스킬 (에이전트 확장 기능)",
+        "bundle": "묶음, 번들",
+        "vulnerability": "보안 취약점"
+      },
+      "checkQuestion": {
+        "q": "vulnerability classes의 뜻은?",
+        "options": [
+          "보안 취약점 유형",
+          "프로그래밍 강의"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-18-e-6",
+      "project": "dream-num/univer",
+      "level": "easy",
+      "english": "Build your own AI office with Univer Office SDK to support editing and collaboration.",
+      "korean": "Univer Office SDK를 사용해 문서 편집과 협업을 지원하는 나만의 AI 오피스를 구축하세요.",
+      "url": "https://github.com/dream-num/univer",
+      "recycledWords": [
+        "build",
+        "support",
+        "collaboration"
+      ],
+      "gloss": {
+        "build": "만들다, 구축하다",
+        "support": "지원하다, 호환되다",
+        "collaboration": "협업, 공동 작업"
+      },
+      "checkQuestion": {
+        "q": "Univer SDK가 돕는 핵심 작업은?",
+        "options": [
+          "문서 편집 및 협업 기능 구축",
+          "도메인 네임 등록"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-18-m-7",
+      "project": "dream-num/univer",
+      "level": "mid",
+      "english": "Bring editing, calculation, collaboration, and file processing into your product for people and AI agents.",
+      "korean": "사람과 AI 에이전트를 위해 편집, 계산, 협업 및 파일 처리 기능을 제품에 도입하세요.",
+      "url": "https://github.com/dream-num/univer",
+      "recycledWords": [
+        "agents",
+        "collaboration"
+      ],
+      "gloss": {
+        "agents": "에이전트들 (자율 AI 프로그램들)",
+        "collaboration": "협업, 공동 작업"
+      },
+      "checkQuestion": {
+        "q": "이 도구가 지원하는 대상은 누구인가요?",
+        "options": [
+          "사람과 AI 에이전트 모두",
+          "데이터베이스 관리자 전용"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-18-e-8",
+      "project": "stablyai/orca",
+      "level": "easy",
+      "english": "Orca lets you run coding agents on desktop and remote runtime.",
+      "korean": "Orca는 데스크톱과 원격 런타임에서 코딩 에이전트를 실행할 수 있게 해줍니다.",
+      "url": "https://github.com/stablyai/orca",
+      "recycledWords": [
+        "agents",
+        "runtime",
+        "remote"
+      ],
+      "gloss": {
+        "agents": "에이전트들 (자율 AI 프로그램들)",
+        "runtime": "런타임 (프로그램 실행 환경)",
+        "remote": "원격의"
+      },
+      "checkQuestion": {
+        "q": "Orca로 무엇을 실행할 수 있나요?",
+        "options": [
+          "코딩 에이전트",
+          "3D 게임 엔진"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-18-m-9",
+      "project": "stablyai/orca",
+      "level": "mid",
+      "english": "Orca lets you run a fleet of coding agents with your own subscription across desktop, mobile and remote runtimes.",
+      "korean": "Orca는 사용자의 구독을 사용해 데스크톱, 모바일, 원격 런타임 전반에서 코딩 에이전트 플릿을 실행할 수 있게 합니다.",
+      "url": "https://github.com/stablyai/orca",
+      "recycledWords": [
+        "agents",
+        "runtimes",
+        "remote",
+        "fleet"
+      ],
+      "gloss": {
+        "agents": "에이전트들 (자율 AI 프로그램들)",
+        "runtimes": "런타임 환경들",
+        "remote": "원격의",
+        "fleet": "무리, 여러 대"
+      },
+      "checkQuestion": {
+        "q": "Orca가 지원하는 런타임 환경은?",
+        "options": [
+          "데스크톱, 모바일, 원격 런타임",
+          "오직 리눅스 서버만 지원"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-18-e-10",
+      "project": "nexu-io/openmotion",
+      "level": "easy",
+      "english": "Turn a reference video into editable motion graphics with this open-source agent studio.",
+      "korean": "이 오픈소스 에이전트 스튜디오로 참고 영상을 편집 가능한 모션 그래픽으로 변환하세요.",
+      "url": "https://github.com/nexu-io/openmotion",
+      "recycledWords": [
+        "agent",
+        "open-source"
+      ],
+      "gloss": {
+        "agent": "에이전트 (스스로 행동하는 AI 프로그램)",
+        "open-source": "오픈소스의"
+      },
+      "checkQuestion": {
+        "q": "이 도구가 만드는 결과물은?",
+        "options": [
+          "편집 가능한 모션 그래픽",
+          "텍스트 전용 문서"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-18-m-11",
+      "project": "nexu-io/openmotion",
+      "level": "mid",
+      "english": "A full-stack agentic video studio that turns reference videos into editable motion graphics with support for coding agents.",
+      "korean": "참고 영상을 편집 가능한 모션 그래픽으로 변환하고 코딩 에이전트를 지원하는 풀스택 에이전틱 비디오 스튜디오입니다.",
+      "url": "https://github.com/nexu-io/openmotion",
+      "recycledWords": [
+        "agents",
+        "support"
+      ],
+      "gloss": {
+        "agents": "에이전트들 (자율 AI 프로그램들)",
+        "support": "지원하다, 호환되다"
+      },
+      "checkQuestion": {
+        "q": "어떤 에이전트들을 지원하나요?",
+        "options": [
+          "Claude Code, Codex 등 코딩 에이전트 지원",
+          "지원하지 않음"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-18-e-12",
+      "project": "anefzaoui/misterdownloadmanager",
+      "level": "easy",
+      "english": "This open-source download manager is written from scratch in pure Rust for Windows and Linux.",
+      "korean": "이 오픈소스 다운로드 매니저는 Windows와 Linux를 위해 순수 Rust로 처음부터 작성되었습니다.",
+      "url": "https://github.com/anefzaoui/misterdownloadmanager",
+      "recycledWords": [
+        "open-source"
+      ],
+      "gloss": {
+        "open-source": "오픈소스의"
+      },
+      "checkQuestion": {
+        "q": "이 프로그램의 작성 언어는 무엇인가요?",
+        "options": [
+          "Rust",
+          "Python"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-18-m-13",
+      "project": "anefzaoui/misterdownloadmanager",
+      "level": "mid",
+      "english": "The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux.",
+      "korean": "Windows, Mac, Linux를 위해 순수 Rust로 백지상태에서 작성된 최고의 오픈소스 클린룸 다운로드 매니저입니다.",
+      "url": "https://github.com/anefzaoui/misterdownloadmanager",
+      "recycledWords": [
+        "open-source"
+      ],
+      "gloss": {
+        "open-source": "오픈소스의"
+      },
+      "checkQuestion": {
+        "q": "clean-room의 의미는?",
+        "options": [
+          "기존 독점 코드를 참조하지 않고 백지에서 독립 구현함",
+          "서버실을 청소하는 기능"
+        ],
+        "answer": 0
+      }
+    }
+  ],
+  "passage": {
+    "title": "Today's OSS Story: Coding Agents & Autonomous Workflows",
+    "text": "Today's trending repositories focus on autonomous coding agents and extensible developer workflows. PaperOrchestra provides a multi-agent framework to write research papers, while LoopForge orchestrates agent delivery with human approval gates. With Univer and Orca, developers can build AI office suites and run agent runtimes across desktop and mobile.",
+    "korean": "오늘의 트렌딩 저장소들은 자율 코딩 에이전트와 확장 가능한 개발자 워크플로에 집중하고 있습니다. PaperOrchestra는 연구 논문을 작성하는 멀티 에이전트 프레임워크를 제공하며, LoopForge는 사람의 승인 게이트와 함께 에이전트 전달을 조율합니다. Univer와 Orca를 통해 개발자는 AI 오피스 스위트를 구축하고 데스크톱과 모바일 전반에서 에이전트 런타임을 실행할 수 있습니다."
+  },
+  "recycledVocab": [
+    {
+      "word": "agents",
+      "count": 4,
+      "ko": "에이전트들 (자율 AI 프로그램들)"
+    },
+    {
+      "word": "agent",
+      "count": 3,
+      "ko": "에이전트 (스스로 행동하는 AI 프로그램)"
+    },
+    {
+      "word": "open-source",
+      "count": 3,
+      "ko": "오픈소스의"
+    },
+    {
+      "word": "framework",
+      "count": 2,
+      "ko": "프레임워크 (개발 뼈대·기본 구조)"
+    },
+    {
+      "word": "build",
+      "count": 2,
+      "ko": "만들다, 구축하다"
+    },
+    {
+      "word": "lightweight",
+      "count": 2,
+      "ko": "가벼운, 경량의"
+    },
+    {
+      "word": "skill",
+      "count": 2,
+      "ko": "스킬 (에이전트 확장 기능)"
+    },
+    {
+      "word": "bundle",
+      "count": 2,
+      "ko": "묶음, 번들"
+    },
+    {
+      "word": "support",
+      "count": 2,
+      "ko": "지원하다, 호환되다"
+    },
+    {
+      "word": "collaboration",
+      "count": 2,
+      "ko": "협업, 공동 작업"
+    },
+    {
+      "word": "remote",
+      "count": 2,
+      "ko": "원격의"
+    },
+    {
+      "word": "automated",
+      "count": 1,
+      "ko": "자동화된"
+    },
+    {
+      "word": "security",
+      "count": 1,
+      "ko": "보안 (취약점 방어)"
+    },
+    {
+      "word": "vulnerability",
+      "count": 1,
+      "ko": "보안 취약점"
+    },
+    {
+      "word": "runtime",
+      "count": 1,
+      "ko": "런타임 (프로그램 실행 환경)"
+    },
+    {
+      "word": "runtimes",
+      "count": 1,
+      "ko": "런타임 환경들"
+    },
+    {
+      "word": "fleet",
+      "count": 1,
+      "ko": "무리, 여러 대"
     }
   ],
   "counts": {

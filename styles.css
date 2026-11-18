@@ -134,6 +134,9 @@ nav a:hover {
   cursor: pointer;
   text-decoration: none;
   transition: transform 0.25s ease, background 0.25s ease, border-color 0.25s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
 }
 
 .btn:hover {
@@ -229,32 +232,388 @@ nav a:hover {
   margin: 0 0 0.5rem;
 }
 
-.speak-stage {
+/* Comprehensible Input Controls */
+.ci-controls {
   margin-top: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+}
+
+.level-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.tab-btn {
+  appearance: none;
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.65);
+  color: var(--ink-soft);
+  font: 600 0.88rem/1 var(--font-ui);
+  padding: 0.65rem 1rem;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.tab-btn:hover {
+  border-color: var(--mint);
+  color: var(--ink);
+  transform: translateY(-1px);
+}
+
+.tab-btn.active {
+  background: var(--ink);
+  color: #fff7f0;
+  border-color: var(--ink);
+  box-shadow: 0 4px 12px rgba(21, 32, 40, 0.15);
+}
+
+.tab-btn.ghost-tab {
+  background: transparent;
+  border-style: dashed;
+}
+
+.tab-btn.ghost-tab.active {
+  background: var(--mint);
+  color: #fff;
+  border-style: solid;
+  border-color: var(--mint);
+}
+
+.recycled-strip {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  padding: 0.65rem 0.9rem;
+  background: rgba(255, 255, 255, 0.45);
+  border-radius: 0.5rem;
+  border: 1px solid var(--line);
+  font-size: 0.82rem;
+}
+
+.strip-label {
+  font-weight: 700;
+  color: var(--ink-soft);
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.strip-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.chip {
+  appearance: none;
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  padding: 0.25rem 0.6rem;
+  border-radius: 999px;
+  background: rgba(31, 122, 92, 0.08);
+  border: 1px solid rgba(31, 122, 92, 0.25);
+  color: var(--mint);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.chip:hover,
+.chip.active {
+  background: var(--mint);
+  color: #ffffff;
+  border-color: var(--mint);
+}
+
+/* Speak Stage (Sentence Flow) */
+.speak-stage {
+  margin-top: 1rem;
   padding: 1.75rem;
-  background: rgba(255, 255, 255, 0.62);
+  background: rgba(255, 255, 255, 0.68);
   border: 1px solid var(--line);
   border-radius: 0.6rem;
   animation: rise-in 0.7s ease both;
+  position: relative;
+}
+
+.stage-top-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1.25rem;
+  flex-wrap: wrap;
+  gap: 0.5rem;
 }
 
 .project-tag {
   font-family: var(--font-mono);
-  font-size: 0.85rem;
+  font-size: 0.88rem;
   color: var(--mint);
-  margin: 0 0 1rem;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+.project-tag:hover {
+  color: var(--accent-deep);
+  text-decoration: underline;
+}
+
+.stage-badges {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.badge-level {
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 0.25rem 0.55rem;
+  border-radius: 4px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.badge-level.easy {
+  background: rgba(31, 122, 92, 0.12);
+  color: var(--mint);
+  border: 1px solid rgba(31, 122, 92, 0.25);
+}
+
+.badge-level.mid {
+  background: rgba(196, 92, 38, 0.12);
+  color: var(--accent);
+  border: 1px solid rgba(196, 92, 38, 0.25);
+}
+
+.stage-counter {
+  font-family: var(--font-mono);
+  font-size: 0.82rem;
+  color: var(--ink-soft);
 }
 
 .sentence.en {
   font-family: var(--font-brand);
-  font-size: clamp(1.35rem, 3vw, 1.85rem);
-  line-height: 1.35;
-  margin: 0 0 0.75rem;
+  font-size: clamp(1.25rem, 2.7vw, 1.75rem);
+  line-height: 1.45;
+  margin: 0 0 1rem;
+  color: var(--ink);
+}
+
+.gloss-word {
+  cursor: pointer;
+  border-bottom: 2px dotted var(--mint);
+  color: var(--ink);
+  transition: background-color 0.15s ease, color 0.15s ease;
+  border-radius: 2px;
+  padding: 0 2px;
+}
+
+.gloss-word:hover,
+.gloss-word.active {
+  background: rgba(31, 122, 92, 0.15);
+  color: var(--mint);
+}
+
+.gloss-box {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.65rem 0.9rem;
+  background: #fffdf9;
+  border: 1px solid rgba(196, 92, 38, 0.35);
+  border-radius: 0.4rem;
+  font-size: 0.88rem;
+  color: var(--ink);
+  margin-bottom: 1.25rem;
+  box-shadow: 0 4px 14px rgba(21, 32, 40, 0.06);
+  animation: rise-in 0.25s ease both;
+}
+
+.gloss-icon {
+  font-size: 1rem;
+}
+
+.gloss-content {
+  flex: 1;
+  font-weight: 500;
+}
+
+.gloss-close {
+  background: transparent;
+  border: none;
+  font-size: 1.15rem;
+  cursor: pointer;
+  color: var(--ink-soft);
+  padding: 0 0.2rem;
+  line-height: 1;
+}
+
+/* Steps in CI stage */
+.ci-step-group {
+  padding: 1rem 0;
+  border-top: 1px solid var(--line);
+  margin-top: 0.75rem;
+}
+
+.step-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.step-badge {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 0.18rem 0.5rem;
+  border-radius: 3px;
+  background: var(--mint);
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+.step-badge.optional {
+  background: var(--ink-soft);
+}
+
+.step-title {
+  font-weight: 700;
+  font-size: 0.92rem;
+  color: var(--ink);
+}
+
+.step-tip {
+  font-size: 0.78rem;
+  color: var(--ink-soft);
+  margin-left: auto;
+}
+
+.audio-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.translation-toggle-row {
+  margin-bottom: 0.5rem;
+}
+
+.sentence-ko-wrap {
+  transition: all 0.25s ease;
+}
+
+.sentence-ko-wrap.is-hidden {
+  display: none;
 }
 
 .sentence.ko {
+  margin: 0.5rem 0 1rem;
   color: var(--ink-soft);
-  margin: 0 0 1.5rem;
+  font-size: 1rem;
+  line-height: 1.55;
+  padding: 0.75rem 1rem;
+  background: rgba(255, 255, 255, 0.75);
+  border-radius: 0.4rem;
+  border-left: 3px solid var(--mint);
+}
+
+.check-box {
+  margin-top: 0.75rem;
+  padding: 0.85rem 1rem;
+  background: rgba(255, 255, 255, 0.55);
+  border: 1px dashed var(--line);
+  border-radius: 0.5rem;
+}
+
+.check-title {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ink-soft);
+  margin: 0 0 0.4rem;
+}
+
+.check-q {
+  font-size: 0.92rem;
+  font-weight: 600;
+  margin: 0 0 0.6rem;
+  color: var(--ink);
+}
+
+.check-options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.check-opt {
+  font: 500 0.85rem var(--font-ui);
+  padding: 0.45rem 0.85rem;
+  border: 1px solid var(--line);
+  border-radius: 0.35rem;
+  background: #ffffff;
+  color: var(--ink);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.check-opt:hover {
+  border-color: var(--mint);
+  background: rgba(31, 122, 92, 0.05);
+}
+
+.check-opt.correct {
+  background: rgba(31, 122, 92, 0.15);
+  border-color: var(--mint);
+  color: var(--mint);
+  font-weight: 600;
+}
+
+.check-opt.wrong {
+  background: rgba(196, 92, 38, 0.1);
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.check-feedback {
+  font-size: 0.85rem;
+  margin: 0.5rem 0 0;
+  min-height: 1.2rem;
+}
+
+.check-feedback.ok {
+  color: var(--mint);
+  font-weight: 600;
+}
+
+.check-feedback.err {
+  color: var(--accent);
+}
+
+.output-group {
+  background: rgba(255, 255, 255, 0.38);
+  border-radius: 0.5rem;
+  padding: 0.85rem 1rem;
+  margin-top: 1rem;
+}
+
+.stage-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--line);
+  gap: 0.75rem;
+  flex-wrap: wrap;
 }
 
 .speak-actions {
@@ -264,12 +623,13 @@ nav a:hover {
 }
 
 .hint {
-  margin: 1rem 0 0;
-  font-size: 0.9rem;
+  font-size: 0.88rem;
   color: var(--ink-soft);
+  margin: 0;
 }
 
-.speak-stage.is-listening .sentence.en {
+.speak-stage.is-listening .sentence.en,
+.passage-stage.is-listening .passage-text.en {
   animation: pulse-soft 1.2s ease infinite;
 }
 
@@ -284,6 +644,48 @@ nav a:hover {
   }
 }
 
+/* 5-Min Mini-Passage Stage */
+.passage-stage {
+  margin-top: 1.25rem;
+  padding: 2rem;
+  background: rgba(255, 255, 255, 0.68);
+  border: 1px solid var(--line);
+  border-radius: 0.6rem;
+  animation: rise-in 0.7s ease both;
+}
+
+.passage-head h3 {
+  font-family: var(--font-brand);
+  font-size: 1.4rem;
+  margin: 0.25rem 0 1rem;
+  letter-spacing: -0.02em;
+}
+
+.passage-text.en {
+  font-family: var(--font-brand);
+  font-size: 1.15rem;
+  line-height: 1.7;
+  color: var(--ink);
+  margin: 0 0 1.25rem;
+}
+
+.passage-actions {
+  display: flex;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+}
+
+.passage-ko {
+  margin-top: 1.25rem;
+  padding: 1rem 1.15rem;
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 0.4rem;
+  border-left: 3px solid var(--mint);
+  line-height: 1.6;
+  color: var(--ink-soft);
+}
+
+/* Plan */
 .plan-list {
   margin: 1rem 0 0;
   padding: 0;
@@ -308,6 +710,14 @@ nav a:hover {
   font-weight: 500;
 }
 
+/* Words */
+.word-filters {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
 .word-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
@@ -322,6 +732,7 @@ nav a:hover {
   border-bottom: 1px solid var(--line);
   cursor: pointer;
   transition: border-color 0.2s ease, transform 0.2s ease;
+  position: relative;
 }
 
 .word-card:hover,
@@ -348,6 +759,19 @@ nav a:hover {
   margin: 0;
 }
 
+.badge-recycled {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 700;
+  color: var(--accent-deep);
+  background: rgba(196, 92, 38, 0.12);
+  padding: 0.15rem 0.45rem;
+  border-radius: 999px;
+  margin-left: 0.4rem;
+  vertical-align: middle;
+}
+
+/* Briefing */
 .brief-list {
   display: grid;
   gap: 0.85rem;
@@ -395,6 +819,10 @@ footer {
   font-size: 0.9rem;
 }
 
+.is-hidden {
+  display: none !important;
+}
+
 @media (max-width: 860px) {
   .hero {
     grid-template-columns: 1fr;
@@ -413,5 +841,20 @@ footer {
   nav {
     gap: 0.75rem;
     font-size: 0.85rem;
+  }
+
+  .stage-nav {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .stage-nav button {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .stage-nav .hint {
+    text-align: center;
+    order: -1;
   }
 }
