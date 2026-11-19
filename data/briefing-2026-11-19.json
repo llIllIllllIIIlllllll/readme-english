@@ -1,0 +1,369 @@
+{
+  "date": "2026-11-19",
+  "multi": [
+    {
+      "fullName": "google-research/paper-orchestra",
+      "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "descriptionKo": "AI 연구 논문 자동 작성 멀티 에이전트",
+      "sources": [
+        "github",
+        "gittrend",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "HKUDS/CLI-Anything",
+      "description": "",
+      "descriptionKo": "모든 소프트웨어를 에이전트 네이티브 CLI로",
+      "sources": [
+        "github",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "mvanhorn/last30days-skill",
+      "description": "",
+      "descriptionKo": "소셜·웹에서 주제를 조사해 요약하는 AI 스킬",
+      "sources": [
+        "github",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "openvinotoolkit/openvino",
+      "description": "",
+      "descriptionKo": "openvino",
+      "sources": [
+        "github",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "affaan-m/ECC",
+      "description": "",
+      "descriptionKo": "에이전트 하네스 성능·스킬·보안 최적화",
+      "sources": [
+        "github",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "DeanChensj/jiangshan-map",
+      "description": "",
+      "descriptionKo": "jiangshan-map",
+      "sources": [
+        "github",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "n8n-io/n8n",
+      "description": "",
+      "descriptionKo": "AI 네이티브 워크플로 자동화 플랫폼",
+      "sources": [
+        "github",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "solidjs/solid",
+      "description": "",
+      "descriptionKo": "solid",
+      "sources": [
+        "github",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "punkpeye/awesome-mcp-servers",
+      "description": "",
+      "descriptionKo": "awesome-mcp-servers",
+      "sources": [
+        "github",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "BaaRai/ARTEX",
+      "description": "ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0)",
+      "descriptionKo": "AI 자율 침투 테스트(펜테스트) 시스템",
+      "sources": [
+        "gittrend",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "stablyai/orca",
+      "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
+      "descriptionKo": "코딩 에이전트 플릿 데스크톱·모바일 런타임",
+      "sources": [
+        "gittrend",
+        "trendshift"
+      ]
+    }
+  ],
+  "morning": [
+    {
+      "id": "m-2026-11-19-e-0",
+      "project": "google-research/paper-orchestra",
+      "level": "easy",
+      "english": "PaperOrchestra is a multi-agent framework to build and write AI research papers.",
+      "korean": "PaperOrchestra는 AI 연구 논문을 작성하고 구축하기 위한 멀티 에이전트 프레임워크입니다.",
+      "url": "https://github.com/google-research/paper-orchestra",
+      "recycledWords": [
+        "framework",
+        "agent",
+        "build"
+      ],
+      "gloss": {
+        "framework": "프레임워크 (개발 뼈대·기본 구조)",
+        "agent": "에이전트 (스스로 행동하는 AI 프로그램)",
+        "build": "만들다, 구축하다"
+      },
+      "checkQuestion": {
+        "q": "PaperOrchestra의 주된 역할은 무엇인가요?",
+        "options": [
+          "AI 연구 논문 작성 자동화",
+          "클라우드 서버 인프라 관리"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-19-m-1",
+      "project": "google-research/paper-orchestra",
+      "level": "mid",
+      "english": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "korean": "PaperOrchestra는 AI 연구 논문 작성을 자동화하기 위한 멀티 에이전트 프레임워크입니다.",
+      "url": "https://github.com/google-research/paper-orchestra",
+      "recycledWords": [
+        "framework",
+        "agent",
+        "automated"
+      ],
+      "gloss": {
+        "framework": "프레임워크 (개발 뼈대·기본 구조)",
+        "agent": "에이전트 (스스로 행동하는 AI 프로그램)",
+        "automated": "자동화된"
+      },
+      "checkQuestion": {
+        "q": "이 프레임워크의 아키텍처 형태는?",
+        "options": [
+          "멀티 에이전트 (여러 AI 협업)",
+          "단일 스레드 CLI"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-19-e-2",
+      "project": "stablyai/orca",
+      "level": "easy",
+      "english": "Orca lets you run coding agents on desktop and remote runtime.",
+      "korean": "Orca는 데스크톱과 원격 런타임에서 코딩 에이전트를 실행할 수 있게 해줍니다.",
+      "url": "https://github.com/stablyai/orca",
+      "recycledWords": [
+        "agents",
+        "runtime",
+        "remote"
+      ],
+      "gloss": {
+        "agents": "에이전트들 (자율 AI 프로그램들)",
+        "runtime": "런타임 (프로그램 실행 환경)",
+        "remote": "원격의"
+      },
+      "checkQuestion": {
+        "q": "Orca로 무엇을 실행할 수 있나요?",
+        "options": [
+          "코딩 에이전트",
+          "3D 게임 엔진"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-19-m-3",
+      "project": "stablyai/orca",
+      "level": "mid",
+      "english": "Orca lets you run a fleet of coding agents with your own subscription across desktop, mobile and remote runtimes.",
+      "korean": "Orca는 사용자의 구독을 사용해 데스크톱, 모바일, 원격 런타임 전반에서 코딩 에이전트 플릿을 실행할 수 있게 합니다.",
+      "url": "https://github.com/stablyai/orca",
+      "recycledWords": [
+        "agents",
+        "runtimes",
+        "remote",
+        "fleet"
+      ],
+      "gloss": {
+        "agents": "에이전트들 (자율 AI 프로그램들)",
+        "runtimes": "런타임 환경들",
+        "remote": "원격의",
+        "fleet": "무리, 여러 대"
+      },
+      "checkQuestion": {
+        "q": "Orca가 지원하는 런타임 환경은?",
+        "options": [
+          "데스크톱, 모바일, 원격 런타임",
+          "오직 리눅스 서버만 지원"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-19-e-4",
+      "project": "HKUDS/CLI-Anything",
+      "level": "easy",
+      "english": "CLI-Anything is a trending open-source tool that helps developers build better workflows.",
+      "korean": "CLI-Anything은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (모든 소프트웨어를 에이전트 네이티브 CLI로).",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "recycledWords": [
+        "workflows",
+        "build",
+        "open-source"
+      ],
+      "gloss": {
+        "workflows": "워크플로들 (작업 절차들)",
+        "build": "만들다, 구축하다",
+        "open-source": "오픈소스의"
+      },
+      "checkQuestion": {
+        "q": "CLI-Anything은(는) 어떤 프로젝트인가요?",
+        "options": [
+          "오늘 주목받는 오픈소스 개발 도구",
+          "하드웨어 장비"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-19-e-5",
+      "project": "mvanhorn/last30days-skill",
+      "level": "easy",
+      "english": "last30days-skill is a trending open-source tool that helps developers build better workflows.",
+      "korean": "last30days-skill은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (소셜·웹에서 주제를 조사해 요약하는 AI 스킬).",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "recycledWords": [
+        "workflows",
+        "build",
+        "open-source",
+        "skill"
+      ],
+      "gloss": {
+        "workflows": "워크플로들 (작업 절차들)",
+        "build": "만들다, 구축하다",
+        "open-source": "오픈소스의",
+        "skill": "스킬 (에이전트 확장 기능)"
+      },
+      "checkQuestion": {
+        "q": "last30days-skill은(는) 어떤 프로젝트인가요?",
+        "options": [
+          "오늘 주목받는 오픈소스 개발 도구",
+          "하드웨어 장비"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-19-m-6",
+      "project": "BaaRai/ARTEX",
+      "level": "mid",
+      "english": "ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0)",
+      "korean": "AI 자율 침투 테스트(펜테스트) 시스템",
+      "url": "https://github.com/BaaRai/ARTEX",
+      "recycledWords": [
+        "autonomous"
+      ],
+      "gloss": {
+        "autonomous": "자율적인 (스스로 판단·실행하는)"
+      },
+      "checkQuestion": {
+        "q": "ARTEX의 설명으로 올바른 것은?",
+        "options": [
+          "AI 자율 침투 테스트(펜테스트) 시스템",
+          "전혀 다른 프로젝트"
+        ],
+        "answer": 0
+      }
+    }
+  ],
+  "passage": {
+    "title": "Today's OSS Story: Coding Agents & Autonomous Workflows",
+    "text": "Today's trending repositories focus on autonomous coding agents and extensible developer workflows. PaperOrchestra provides a multi-agent framework to write research papers, while LoopForge orchestrates agent delivery with human approval gates. With Univer and Orca, developers can build AI office suites and run agent runtimes across desktop and mobile.",
+    "korean": "오늘의 트렌딩 저장소들은 자율 코딩 에이전트와 확장 가능한 개발자 워크플로에 집중하고 있습니다. PaperOrchestra는 연구 논문을 작성하는 멀티 에이전트 프레임워크를 제공하며, LoopForge는 사람의 승인 게이트와 함께 에이전트 전달을 조율합니다. Univer와 Orca를 통해 개발자는 AI 오피스 스위트를 구축하고 데스크톱과 모바일 전반에서 에이전트 런타임을 실행할 수 있습니다."
+  },
+  "recycledVocab": [
+    {
+      "word": "build",
+      "count": 3,
+      "ko": "만들다, 구축하다"
+    },
+    {
+      "word": "framework",
+      "count": 2,
+      "ko": "프레임워크 (개발 뼈대·기본 구조)"
+    },
+    {
+      "word": "agent",
+      "count": 2,
+      "ko": "에이전트 (스스로 행동하는 AI 프로그램)"
+    },
+    {
+      "word": "agents",
+      "count": 2,
+      "ko": "에이전트들 (자율 AI 프로그램들)"
+    },
+    {
+      "word": "remote",
+      "count": 2,
+      "ko": "원격의"
+    },
+    {
+      "word": "workflows",
+      "count": 2,
+      "ko": "워크플로들 (작업 절차들)"
+    },
+    {
+      "word": "open-source",
+      "count": 2,
+      "ko": "오픈소스의"
+    },
+    {
+      "word": "automated",
+      "count": 1,
+      "ko": "자동화된"
+    },
+    {
+      "word": "runtime",
+      "count": 1,
+      "ko": "런타임 (프로그램 실행 환경)"
+    },
+    {
+      "word": "runtimes",
+      "count": 1,
+      "ko": "런타임 환경들"
+    },
+    {
+      "word": "fleet",
+      "count": 1,
+      "ko": "무리, 여러 대"
+    },
+    {
+      "word": "skill",
+      "count": 1,
+      "ko": "스킬 (에이전트 확장 기능)"
+    },
+    {
+      "word": "autonomous",
+      "count": 1,
+      "ko": "자율적인 (스스로 판단·실행하는)"
+    }
+  ],
+  "counts": {
+    "github": 18,
+    "gittrend": 20,
+    "trendshift": 30,
+    "starhistory": 0,
+    "unique": 56,
+    "multi": 11
+  }
+}
