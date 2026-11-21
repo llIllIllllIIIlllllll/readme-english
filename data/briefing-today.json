@@ -1,55 +1,30 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "multi": [
     {
-      "fullName": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "descriptionKo": "에이전틱 스킬 프레임워크·개발 방법론",
+      "fullName": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "descriptionKo": "모든 소프트웨어를 에이전트 네이티브 CLI로",
       "sources": [
         "github",
-        "gittrend"
-      ]
-    },
-    {
-      "fullName": "jingyaogong/minimind",
-      "description": "",
-      "descriptionKo": "소형 LLM을 빠르게 학습하는 프로젝트",
-      "sources": [
-        "github",
+        "gittrend",
         "trendshift"
       ]
     },
     {
       "fullName": "firecrawl/firecrawl",
-      "description": "",
-      "descriptionKo": "firecrawl",
+      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "descriptionKo": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
       "sources": [
         "github",
+        "gittrend",
         "trendshift"
-      ]
-    },
-    {
-      "fullName": "mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "descriptionKo": "소셜·웹에서 주제를 조사해 요약하는 AI 스킬",
-      "sources": [
-        "github",
-        "gittrend"
       ]
     },
     {
       "fullName": "mjmirza/app-store-compliance",
       "description": "",
       "descriptionKo": "app-store-compliance",
-      "sources": [
-        "github",
-        "trendshift"
-      ]
-    },
-    {
-      "fullName": "Tracer-Cloud/opensre",
-      "description": "",
-      "descriptionKo": "opensre",
       "sources": [
         "github",
         "trendshift"
@@ -74,27 +49,36 @@
       ]
     },
     {
-      "fullName": "BaaRai/ARTEX",
-      "description": "ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0)",
-      "descriptionKo": "AI 자율 침투 테스트(펜테스트) 시스템",
-      "sources": [
-        "gittrend",
-        "trendshift"
-      ]
-    },
-    {
-      "fullName": "erkamyaman/rust-anything",
-      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
-      "descriptionKo": "앱을 단계적으로 Rust로 재작성·검증",
-      "sources": [
-        "gittrend",
-        "trendshift"
-      ]
-    },
-    {
       "fullName": "elementalsouls/Claude-BugHunter",
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "descriptionKo": "Claude Code용 버그 헌팅·레드팀 스킬 번들",
+      "sources": [
+        "gittrend",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "nexu-io/openmotion",
+      "description": "The open-source Claude Motion & CapCut alternative. Turn a reference video into editable motion graphics with your brand kit. Export MP4s for YouTube, YouTube Shorts, Instagram Reels, and TikTok. A full-stack agentic video studio with 300+ Motion.md guides and support for 22 agents, including Claude Code, Codex, DSH, and WorkBuddy.",
+      "descriptionKo": "레퍼런스 영상→모션 그래픽 오픈소스 스튜디오",
+      "sources": [
+        "gittrend",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "pingdotgg/t3code",
+      "description": "The best way to control Claude Code, Codex and more from any computer or phone",
+      "descriptionKo": "폰/PC에서 Claude Code·Codex 원격 제어",
+      "sources": [
+        "gittrend",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "stablyai/orca",
+      "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
+      "descriptionKo": "코딩 에이전트 플릿 데스크톱·모바일 런타임",
       "sources": [
         "gittrend",
         "trendshift"
@@ -103,7 +87,7 @@
   ],
   "morning": [
     {
-      "id": "m-2026-11-20-e-0",
+      "id": "m-2026-11-21-e-0",
       "project": "elementalsouls/Claude-BugHunter",
       "level": "easy",
       "english": "BugHunter is a skill bundle for bug hunting and external red-team security work.",
@@ -129,7 +113,7 @@
       }
     },
     {
-      "id": "m-2026-11-20-m-1",
+      "id": "m-2026-11-21-m-1",
       "project": "elementalsouls/Claude-BugHunter",
       "level": "mid",
       "english": "A Claude Code skill bundle for bug hunting and external red-team work curated across core vulnerability classes.",
@@ -155,149 +139,103 @@
       }
     },
     {
-      "id": "m-2026-11-20-e-2",
-      "project": "obra/superpowers",
+      "id": "m-2026-11-21-e-2",
+      "project": "nexu-io/openmotion",
       "level": "easy",
-      "english": "superpowers is a trending open-source tool that helps developers build better workflows.",
-      "korean": "superpowers은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (에이전틱 스킬 프레임워크·개발 방법론).",
-      "url": "https://github.com/obra/superpowers",
-      "recycledWords": [
-        "workflows",
-        "build",
-        "open-source"
-      ],
-      "gloss": {
-        "workflows": "워크플로들 (작업 절차들)",
-        "build": "만들다, 구축하다",
-        "open-source": "오픈소스의"
-      },
-      "checkQuestion": {
-        "q": "superpowers은(는) 어떤 프로젝트인가요?",
-        "options": [
-          "오늘 주목받는 오픈소스 개발 도구",
-          "하드웨어 장비"
-        ],
-        "answer": 0
-      }
-    },
-    {
-      "id": "m-2026-11-20-m-3",
-      "project": "obra/superpowers",
-      "level": "mid",
-      "english": "An agentic skills framework & software development methodology that works.",
-      "korean": "에이전틱 스킬 프레임워크·개발 방법론",
-      "url": "https://github.com/obra/superpowers",
-      "recycledWords": [
-        "framework",
-        "skills"
-      ],
-      "gloss": {
-        "framework": "프레임워크 (개발 뼈대·기본 구조)",
-        "skills": "스킬들"
-      },
-      "checkQuestion": {
-        "q": "superpowers의 설명으로 올바른 것은?",
-        "options": [
-          "에이전틱 스킬 프레임워크·개발 방법론",
-          "전혀 다른 프로젝트"
-        ],
-        "answer": 0
-      }
-    },
-    {
-      "id": "m-2026-11-20-e-4",
-      "project": "jingyaogong/minimind",
-      "level": "easy",
-      "english": "minimind is a trending open-source tool that helps developers build better workflows.",
-      "korean": "minimind은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (소형 LLM을 빠르게 학습하는 프로젝트).",
-      "url": "https://github.com/jingyaogong/minimind",
-      "recycledWords": [
-        "workflows",
-        "build",
-        "open-source"
-      ],
-      "gloss": {
-        "workflows": "워크플로들 (작업 절차들)",
-        "build": "만들다, 구축하다",
-        "open-source": "오픈소스의"
-      },
-      "checkQuestion": {
-        "q": "minimind은(는) 어떤 프로젝트인가요?",
-        "options": [
-          "오늘 주목받는 오픈소스 개발 도구",
-          "하드웨어 장비"
-        ],
-        "answer": 0
-      }
-    },
-    {
-      "id": "m-2026-11-20-e-5",
-      "project": "firecrawl/firecrawl",
-      "level": "easy",
-      "english": "firecrawl is a trending open-source tool that helps developers build better workflows.",
-      "korean": "firecrawl은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (firecrawl).",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "recycledWords": [
-        "workflows",
-        "build",
-        "open-source"
-      ],
-      "gloss": {
-        "workflows": "워크플로들 (작업 절차들)",
-        "build": "만들다, 구축하다",
-        "open-source": "오픈소스의"
-      },
-      "checkQuestion": {
-        "q": "firecrawl은(는) 어떤 프로젝트인가요?",
-        "options": [
-          "오늘 주목받는 오픈소스 개발 도구",
-          "하드웨어 장비"
-        ],
-        "answer": 0
-      }
-    },
-    {
-      "id": "m-2026-11-20-m-6",
-      "project": "mvanhorn/last30days-skill",
-      "level": "mid",
-      "english": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "korean": "소셜·웹에서 주제를 조사해 요약하는 AI 스킬",
-      "url": "https://github.com/mvanhorn/last30days-skill",
+      "english": "Turn a reference video into editable motion graphics with this open-source agent studio.",
+      "korean": "이 오픈소스 에이전트 스튜디오로 참고 영상을 편집 가능한 모션 그래픽으로 변환하세요.",
+      "url": "https://github.com/nexu-io/openmotion",
       "recycledWords": [
         "agent",
-        "skill"
+        "open-source"
       ],
       "gloss": {
         "agent": "에이전트 (스스로 행동하는 AI 프로그램)",
-        "skill": "스킬 (에이전트 확장 기능)"
+        "open-source": "오픈소스의"
       },
       "checkQuestion": {
-        "q": "last30days-skill의 설명으로 올바른 것은?",
+        "q": "이 도구가 만드는 결과물은?",
         "options": [
-          "소셜·웹에서 주제를 조사해 요약하는 AI 스킬",
-          "전혀 다른 프로젝트"
+          "편집 가능한 모션 그래픽",
+          "텍스트 전용 문서"
         ],
         "answer": 0
       }
     },
     {
-      "id": "m-2026-11-20-m-7",
-      "project": "BaaRai/ARTEX",
+      "id": "m-2026-11-21-m-3",
+      "project": "nexu-io/openmotion",
       "level": "mid",
-      "english": "ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0)",
-      "korean": "AI 자율 침투 테스트(펜테스트) 시스템",
-      "url": "https://github.com/BaaRai/ARTEX",
+      "english": "A full-stack agentic video studio that turns reference videos into editable motion graphics with support for coding agents.",
+      "korean": "참고 영상을 편집 가능한 모션 그래픽으로 변환하고 코딩 에이전트를 지원하는 풀스택 에이전틱 비디오 스튜디오입니다.",
+      "url": "https://github.com/nexu-io/openmotion",
       "recycledWords": [
-        "autonomous"
+        "agents",
+        "support"
       ],
       "gloss": {
-        "autonomous": "자율적인 (스스로 판단·실행하는)"
+        "agents": "에이전트들 (자율 AI 프로그램들)",
+        "support": "지원하다, 호환되다"
       },
       "checkQuestion": {
-        "q": "ARTEX의 설명으로 올바른 것은?",
+        "q": "어떤 에이전트들을 지원하나요?",
         "options": [
-          "AI 자율 침투 테스트(펜테스트) 시스템",
-          "전혀 다른 프로젝트"
+          "Claude Code, Codex 등 코딩 에이전트 지원",
+          "지원하지 않음"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-21-e-4",
+      "project": "stablyai/orca",
+      "level": "easy",
+      "english": "Orca lets you run coding agents on desktop and remote runtime.",
+      "korean": "Orca는 데스크톱과 원격 런타임에서 코딩 에이전트를 실행할 수 있게 해줍니다.",
+      "url": "https://github.com/stablyai/orca",
+      "recycledWords": [
+        "agents",
+        "runtime",
+        "remote"
+      ],
+      "gloss": {
+        "agents": "에이전트들 (자율 AI 프로그램들)",
+        "runtime": "런타임 (프로그램 실행 환경)",
+        "remote": "원격의"
+      },
+      "checkQuestion": {
+        "q": "Orca로 무엇을 실행할 수 있나요?",
+        "options": [
+          "코딩 에이전트",
+          "3D 게임 엔진"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-21-m-5",
+      "project": "stablyai/orca",
+      "level": "mid",
+      "english": "Orca lets you run a fleet of coding agents with your own subscription across desktop, mobile and remote runtimes.",
+      "korean": "Orca는 사용자의 구독을 사용해 데스크톱, 모바일, 원격 런타임 전반에서 코딩 에이전트 플릿을 실행할 수 있게 합니다.",
+      "url": "https://github.com/stablyai/orca",
+      "recycledWords": [
+        "agents",
+        "runtimes",
+        "remote",
+        "fleet"
+      ],
+      "gloss": {
+        "agents": "에이전트들 (자율 AI 프로그램들)",
+        "runtimes": "런타임 환경들",
+        "remote": "원격의",
+        "fleet": "무리, 여러 대"
+      },
+      "checkQuestion": {
+        "q": "Orca가 지원하는 런타임 환경은?",
+        "options": [
+          "데스크톱, 모바일, 원격 런타임",
+          "오직 리눅스 서버만 지원"
         ],
         "answer": 0
       }
@@ -310,29 +248,24 @@
   },
   "recycledVocab": [
     {
+      "word": "agents",
+      "count": 3,
+      "ko": "에이전트들 (자율 AI 프로그램들)"
+    },
+    {
       "word": "skill",
-      "count": 3,
+      "count": 2,
       "ko": "스킬 (에이전트 확장 기능)"
-    },
-    {
-      "word": "workflows",
-      "count": 3,
-      "ko": "워크플로들 (작업 절차들)"
-    },
-    {
-      "word": "build",
-      "count": 3,
-      "ko": "만들다, 구축하다"
-    },
-    {
-      "word": "open-source",
-      "count": 3,
-      "ko": "오픈소스의"
     },
     {
       "word": "bundle",
       "count": 2,
       "ko": "묶음, 번들"
+    },
+    {
+      "word": "remote",
+      "count": 2,
+      "ko": "원격의"
     },
     {
       "word": "security",
@@ -345,24 +278,34 @@
       "ko": "보안 취약점"
     },
     {
-      "word": "framework",
-      "count": 1,
-      "ko": "프레임워크 (개발 뼈대·기본 구조)"
-    },
-    {
-      "word": "skills",
-      "count": 1,
-      "ko": "스킬들"
-    },
-    {
       "word": "agent",
       "count": 1,
       "ko": "에이전트 (스스로 행동하는 AI 프로그램)"
     },
     {
-      "word": "autonomous",
+      "word": "open-source",
       "count": 1,
-      "ko": "자율적인 (스스로 판단·실행하는)"
+      "ko": "오픈소스의"
+    },
+    {
+      "word": "support",
+      "count": 1,
+      "ko": "지원하다, 호환되다"
+    },
+    {
+      "word": "runtime",
+      "count": 1,
+      "ko": "런타임 (프로그램 실행 환경)"
+    },
+    {
+      "word": "runtimes",
+      "count": 1,
+      "ko": "런타임 환경들"
+    },
+    {
+      "word": "fleet",
+      "count": 1,
+      "ko": "무리, 여러 대"
     }
   ],
   "counts": {
@@ -371,6 +314,6 @@
     "trendshift": 29,
     "starhistory": 0,
     "unique": 53,
-    "multi": 11
+    "multi": 9
   }
 }
