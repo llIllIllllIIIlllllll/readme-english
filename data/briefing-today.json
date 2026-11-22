@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "multi": [
     {
-      "fullName": "HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "descriptionKo": "모든 소프트웨어를 에이전트 네이티브 CLI로",
+      "fullName": "zhouxiaoka/autoclip",
+      "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "descriptionKo": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
       "sources": [
         "github",
         "gittrend",
@@ -13,18 +13,35 @@
     },
     {
       "fullName": "firecrawl/firecrawl",
-      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-      "descriptionKo": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "description": "",
+      "descriptionKo": "firecrawl",
       "sources": [
         "github",
-        "gittrend",
         "trendshift"
       ]
     },
     {
       "fullName": "mjmirza/app-store-compliance",
+      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "descriptionKo": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "sources": [
+        "github",
+        "gittrend"
+      ]
+    },
+    {
+      "fullName": "Tracer-Cloud/opensre",
       "description": "",
-      "descriptionKo": "app-store-compliance",
+      "descriptionKo": "opensre",
+      "sources": [
+        "github",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "toeverything/AFFiNE",
+      "description": "",
+      "descriptionKo": "AFFiNE",
       "sources": [
         "github",
         "trendshift"
@@ -32,20 +49,11 @@
     },
     {
       "fullName": "XiaoYouChR/Ghost-Downloader-3",
-      "description": "",
-      "descriptionKo": "Ghost-Downloader-3",
+      "description": "The only downloader you need. 下载器的集大成者。",
+      "descriptionKo": "The only downloader you need. 下载器的集大成者。",
       "sources": [
         "github",
-        "trendshift"
-      ]
-    },
-    {
-      "fullName": "zhouxiaoka/autoclip",
-      "description": "",
-      "descriptionKo": "autoclip",
-      "sources": [
-        "github",
-        "trendshift"
+        "gittrend"
       ]
     },
     {
@@ -58,18 +66,18 @@
       ]
     },
     {
-      "fullName": "nexu-io/openmotion",
-      "description": "The open-source Claude Motion & CapCut alternative. Turn a reference video into editable motion graphics with your brand kit. Export MP4s for YouTube, YouTube Shorts, Instagram Reels, and TikTok. A full-stack agentic video studio with 300+ Motion.md guides and support for 22 agents, including Claude Code, Codex, DSH, and WorkBuddy.",
-      "descriptionKo": "레퍼런스 영상→모션 그래픽 오픈소스 스튜디오",
+      "fullName": "pingdotgg/t3code",
+      "description": "The best way to control Claude Code, Codex and more from any computer or phone",
+      "descriptionKo": "폰/PC에서 Claude Code·Codex 원격 제어",
       "sources": [
         "gittrend",
         "trendshift"
       ]
     },
     {
-      "fullName": "pingdotgg/t3code",
-      "description": "The best way to control Claude Code, Codex and more from any computer or phone",
-      "descriptionKo": "폰/PC에서 Claude Code·Codex 원격 제어",
+      "fullName": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "descriptionKo": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
       "sources": [
         "gittrend",
         "trendshift"
@@ -87,7 +95,7 @@
   ],
   "morning": [
     {
-      "id": "m-2026-11-21-e-0",
+      "id": "m-2026-11-22-e-0",
       "project": "elementalsouls/Claude-BugHunter",
       "level": "easy",
       "english": "BugHunter is a skill bundle for bug hunting and external red-team security work.",
@@ -113,7 +121,7 @@
       }
     },
     {
-      "id": "m-2026-11-21-m-1",
+      "id": "m-2026-11-22-m-1",
       "project": "elementalsouls/Claude-BugHunter",
       "level": "mid",
       "english": "A Claude Code skill bundle for bug hunting and external red-team work curated across core vulnerability classes.",
@@ -139,55 +147,7 @@
       }
     },
     {
-      "id": "m-2026-11-21-e-2",
-      "project": "nexu-io/openmotion",
-      "level": "easy",
-      "english": "Turn a reference video into editable motion graphics with this open-source agent studio.",
-      "korean": "이 오픈소스 에이전트 스튜디오로 참고 영상을 편집 가능한 모션 그래픽으로 변환하세요.",
-      "url": "https://github.com/nexu-io/openmotion",
-      "recycledWords": [
-        "agent",
-        "open-source"
-      ],
-      "gloss": {
-        "agent": "에이전트 (스스로 행동하는 AI 프로그램)",
-        "open-source": "오픈소스의"
-      },
-      "checkQuestion": {
-        "q": "이 도구가 만드는 결과물은?",
-        "options": [
-          "편집 가능한 모션 그래픽",
-          "텍스트 전용 문서"
-        ],
-        "answer": 0
-      }
-    },
-    {
-      "id": "m-2026-11-21-m-3",
-      "project": "nexu-io/openmotion",
-      "level": "mid",
-      "english": "A full-stack agentic video studio that turns reference videos into editable motion graphics with support for coding agents.",
-      "korean": "참고 영상을 편집 가능한 모션 그래픽으로 변환하고 코딩 에이전트를 지원하는 풀스택 에이전틱 비디오 스튜디오입니다.",
-      "url": "https://github.com/nexu-io/openmotion",
-      "recycledWords": [
-        "agents",
-        "support"
-      ],
-      "gloss": {
-        "agents": "에이전트들 (자율 AI 프로그램들)",
-        "support": "지원하다, 호환되다"
-      },
-      "checkQuestion": {
-        "q": "어떤 에이전트들을 지원하나요?",
-        "options": [
-          "Claude Code, Codex 등 코딩 에이전트 지원",
-          "지원하지 않음"
-        ],
-        "answer": 0
-      }
-    },
-    {
-      "id": "m-2026-11-21-e-4",
+      "id": "m-2026-11-22-e-2",
       "project": "stablyai/orca",
       "level": "easy",
       "english": "Orca lets you run coding agents on desktop and remote runtime.",
@@ -213,7 +173,7 @@
       }
     },
     {
-      "id": "m-2026-11-21-m-5",
+      "id": "m-2026-11-22-m-3",
       "project": "stablyai/orca",
       "level": "mid",
       "english": "Orca lets you run a fleet of coding agents with your own subscription across desktop, mobile and remote runtimes.",
@@ -239,6 +199,98 @@
         ],
         "answer": 0
       }
+    },
+    {
+      "id": "m-2026-11-22-e-4",
+      "project": "zhouxiaoka/autoclip",
+      "level": "easy",
+      "english": "autoclip is a trending open-source tool that helps developers build better workflows.",
+      "korean": "autoclip은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.).",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "recycledWords": [
+        "workflows",
+        "build",
+        "open-source"
+      ],
+      "gloss": {
+        "workflows": "워크플로들 (작업 절차들)",
+        "build": "만들다, 구축하다",
+        "open-source": "오픈소스의"
+      },
+      "checkQuestion": {
+        "q": "autoclip은(는) 어떤 프로젝트인가요?",
+        "options": [
+          "오늘 주목받는 오픈소스 개발 도구",
+          "하드웨어 장비"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-22-m-5",
+      "project": "zhouxiaoka/autoclip",
+      "level": "mid",
+      "english": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "korean": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "recycledWords": [
+        "open-source"
+      ],
+      "gloss": {
+        "open-source": "오픈소스의"
+      },
+      "checkQuestion": {
+        "q": "autoclip의 설명으로 올바른 것은?",
+        "options": [
+          "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+          "전혀 다른 프로젝트"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-22-e-6",
+      "project": "firecrawl/firecrawl",
+      "level": "easy",
+      "english": "firecrawl is a trending open-source tool that helps developers build better workflows.",
+      "korean": "firecrawl은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (firecrawl).",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "recycledWords": [
+        "workflows",
+        "build",
+        "open-source"
+      ],
+      "gloss": {
+        "workflows": "워크플로들 (작업 절차들)",
+        "build": "만들다, 구축하다",
+        "open-source": "오픈소스의"
+      },
+      "checkQuestion": {
+        "q": "firecrawl은(는) 어떤 프로젝트인가요?",
+        "options": [
+          "오늘 주목받는 오픈소스 개발 도구",
+          "하드웨어 장비"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-22-m-7",
+      "project": "mjmirza/app-store-compliance",
+      "level": "mid",
+      "english": "Avoid common App Store and Google Play rejections.",
+      "korean": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "url": "https://github.com/mjmirza/app-store-compliance",
+      "recycledWords": [],
+      "gloss": {},
+      "checkQuestion": {
+        "q": "app-store-compliance의 설명으로 올바른 것은?",
+        "options": [
+          "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+          "전혀 다른 프로젝트"
+        ],
+        "answer": 0
+      }
     }
   ],
   "passage": {
@@ -248,9 +300,9 @@
   },
   "recycledVocab": [
     {
-      "word": "agents",
+      "word": "open-source",
       "count": 3,
-      "ko": "에이전트들 (자율 AI 프로그램들)"
+      "ko": "오픈소스의"
     },
     {
       "word": "skill",
@@ -263,9 +315,24 @@
       "ko": "묶음, 번들"
     },
     {
+      "word": "agents",
+      "count": 2,
+      "ko": "에이전트들 (자율 AI 프로그램들)"
+    },
+    {
       "word": "remote",
       "count": 2,
       "ko": "원격의"
+    },
+    {
+      "word": "workflows",
+      "count": 2,
+      "ko": "워크플로들 (작업 절차들)"
+    },
+    {
+      "word": "build",
+      "count": 2,
+      "ko": "만들다, 구축하다"
     },
     {
       "word": "security",
@@ -276,21 +343,6 @@
       "word": "vulnerability",
       "count": 1,
       "ko": "보안 취약점"
-    },
-    {
-      "word": "agent",
-      "count": 1,
-      "ko": "에이전트 (스스로 행동하는 AI 프로그램)"
-    },
-    {
-      "word": "open-source",
-      "count": 1,
-      "ko": "오픈소스의"
-    },
-    {
-      "word": "support",
-      "count": 1,
-      "ko": "지원하다, 호환되다"
     },
     {
       "word": "runtime",
@@ -311,9 +363,9 @@
   "counts": {
     "github": 15,
     "gittrend": 20,
-    "trendshift": 29,
+    "trendshift": 30,
     "starhistory": 0,
-    "unique": 53,
-    "multi": 9
+    "unique": 54,
+    "multi": 10
   }
 }

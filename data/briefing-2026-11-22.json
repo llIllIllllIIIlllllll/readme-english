@@ -1,0 +1,371 @@
+{
+  "date": "2026-11-22",
+  "multi": [
+    {
+      "fullName": "zhouxiaoka/autoclip",
+      "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "descriptionKo": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "sources": [
+        "github",
+        "gittrend",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "firecrawl/firecrawl",
+      "description": "",
+      "descriptionKo": "firecrawl",
+      "sources": [
+        "github",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "mjmirza/app-store-compliance",
+      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "descriptionKo": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "sources": [
+        "github",
+        "gittrend"
+      ]
+    },
+    {
+      "fullName": "Tracer-Cloud/opensre",
+      "description": "",
+      "descriptionKo": "opensre",
+      "sources": [
+        "github",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "toeverything/AFFiNE",
+      "description": "",
+      "descriptionKo": "AFFiNE",
+      "sources": [
+        "github",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "XiaoYouChR/Ghost-Downloader-3",
+      "description": "The only downloader you need. 下载器的集大成者。",
+      "descriptionKo": "The only downloader you need. 下载器的集大成者。",
+      "sources": [
+        "github",
+        "gittrend"
+      ]
+    },
+    {
+      "fullName": "elementalsouls/Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "descriptionKo": "Claude Code용 버그 헌팅·레드팀 스킬 번들",
+      "sources": [
+        "gittrend",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "pingdotgg/t3code",
+      "description": "The best way to control Claude Code, Codex and more from any computer or phone",
+      "descriptionKo": "폰/PC에서 Claude Code·Codex 원격 제어",
+      "sources": [
+        "gittrend",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "descriptionKo": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "sources": [
+        "gittrend",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "stablyai/orca",
+      "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
+      "descriptionKo": "코딩 에이전트 플릿 데스크톱·모바일 런타임",
+      "sources": [
+        "gittrend",
+        "trendshift"
+      ]
+    }
+  ],
+  "morning": [
+    {
+      "id": "m-2026-11-22-e-0",
+      "project": "elementalsouls/Claude-BugHunter",
+      "level": "easy",
+      "english": "BugHunter is a skill bundle for bug hunting and external red-team security work.",
+      "korean": "BugHunter는 버그 헌팅과 외부 레드팀 보안 작업을 위한 스킬 번들입니다.",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "recycledWords": [
+        "security",
+        "skill",
+        "bundle"
+      ],
+      "gloss": {
+        "security": "보안 (취약점 방어)",
+        "skill": "스킬 (에이전트 확장 기능)",
+        "bundle": "묶음, 번들"
+      },
+      "checkQuestion": {
+        "q": "이 프로젝트의 주요 목적은?",
+        "options": [
+          "보안 버그 탐색 및 레드팀 작업",
+          "음악 작곡"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-22-m-1",
+      "project": "elementalsouls/Claude-BugHunter",
+      "level": "mid",
+      "english": "A Claude Code skill bundle for bug hunting and external red-team work curated across core vulnerability classes.",
+      "korean": "핵심 취약점 분류 전반에 걸쳐 선별된, 버그 헌팅 및 외부 레드팀 작업을 위한 Claude Code 스킬 번들입니다.",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "recycledWords": [
+        "skill",
+        "bundle",
+        "vulnerability"
+      ],
+      "gloss": {
+        "skill": "스킬 (에이전트 확장 기능)",
+        "bundle": "묶음, 번들",
+        "vulnerability": "보안 취약점"
+      },
+      "checkQuestion": {
+        "q": "vulnerability classes의 뜻은?",
+        "options": [
+          "보안 취약점 유형",
+          "프로그래밍 강의"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-22-e-2",
+      "project": "stablyai/orca",
+      "level": "easy",
+      "english": "Orca lets you run coding agents on desktop and remote runtime.",
+      "korean": "Orca는 데스크톱과 원격 런타임에서 코딩 에이전트를 실행할 수 있게 해줍니다.",
+      "url": "https://github.com/stablyai/orca",
+      "recycledWords": [
+        "agents",
+        "runtime",
+        "remote"
+      ],
+      "gloss": {
+        "agents": "에이전트들 (자율 AI 프로그램들)",
+        "runtime": "런타임 (프로그램 실행 환경)",
+        "remote": "원격의"
+      },
+      "checkQuestion": {
+        "q": "Orca로 무엇을 실행할 수 있나요?",
+        "options": [
+          "코딩 에이전트",
+          "3D 게임 엔진"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-22-m-3",
+      "project": "stablyai/orca",
+      "level": "mid",
+      "english": "Orca lets you run a fleet of coding agents with your own subscription across desktop, mobile and remote runtimes.",
+      "korean": "Orca는 사용자의 구독을 사용해 데스크톱, 모바일, 원격 런타임 전반에서 코딩 에이전트 플릿을 실행할 수 있게 합니다.",
+      "url": "https://github.com/stablyai/orca",
+      "recycledWords": [
+        "agents",
+        "runtimes",
+        "remote",
+        "fleet"
+      ],
+      "gloss": {
+        "agents": "에이전트들 (자율 AI 프로그램들)",
+        "runtimes": "런타임 환경들",
+        "remote": "원격의",
+        "fleet": "무리, 여러 대"
+      },
+      "checkQuestion": {
+        "q": "Orca가 지원하는 런타임 환경은?",
+        "options": [
+          "데스크톱, 모바일, 원격 런타임",
+          "오직 리눅스 서버만 지원"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-22-e-4",
+      "project": "zhouxiaoka/autoclip",
+      "level": "easy",
+      "english": "autoclip is a trending open-source tool that helps developers build better workflows.",
+      "korean": "autoclip은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.).",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "recycledWords": [
+        "workflows",
+        "build",
+        "open-source"
+      ],
+      "gloss": {
+        "workflows": "워크플로들 (작업 절차들)",
+        "build": "만들다, 구축하다",
+        "open-source": "오픈소스의"
+      },
+      "checkQuestion": {
+        "q": "autoclip은(는) 어떤 프로젝트인가요?",
+        "options": [
+          "오늘 주목받는 오픈소스 개발 도구",
+          "하드웨어 장비"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-22-m-5",
+      "project": "zhouxiaoka/autoclip",
+      "level": "mid",
+      "english": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "korean": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "recycledWords": [
+        "open-source"
+      ],
+      "gloss": {
+        "open-source": "오픈소스의"
+      },
+      "checkQuestion": {
+        "q": "autoclip의 설명으로 올바른 것은?",
+        "options": [
+          "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+          "전혀 다른 프로젝트"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-22-e-6",
+      "project": "firecrawl/firecrawl",
+      "level": "easy",
+      "english": "firecrawl is a trending open-source tool that helps developers build better workflows.",
+      "korean": "firecrawl은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (firecrawl).",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "recycledWords": [
+        "workflows",
+        "build",
+        "open-source"
+      ],
+      "gloss": {
+        "workflows": "워크플로들 (작업 절차들)",
+        "build": "만들다, 구축하다",
+        "open-source": "오픈소스의"
+      },
+      "checkQuestion": {
+        "q": "firecrawl은(는) 어떤 프로젝트인가요?",
+        "options": [
+          "오늘 주목받는 오픈소스 개발 도구",
+          "하드웨어 장비"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-22-m-7",
+      "project": "mjmirza/app-store-compliance",
+      "level": "mid",
+      "english": "Avoid common App Store and Google Play rejections.",
+      "korean": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "url": "https://github.com/mjmirza/app-store-compliance",
+      "recycledWords": [],
+      "gloss": {},
+      "checkQuestion": {
+        "q": "app-store-compliance의 설명으로 올바른 것은?",
+        "options": [
+          "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+          "전혀 다른 프로젝트"
+        ],
+        "answer": 0
+      }
+    }
+  ],
+  "passage": {
+    "title": "Today's OSS Story: Coding Agents & Autonomous Workflows",
+    "text": "Today's trending repositories focus on autonomous coding agents and extensible developer workflows. PaperOrchestra provides a multi-agent framework to write research papers, while LoopForge orchestrates agent delivery with human approval gates. With Univer and Orca, developers can build AI office suites and run agent runtimes across desktop and mobile.",
+    "korean": "오늘의 트렌딩 저장소들은 자율 코딩 에이전트와 확장 가능한 개발자 워크플로에 집중하고 있습니다. PaperOrchestra는 연구 논문을 작성하는 멀티 에이전트 프레임워크를 제공하며, LoopForge는 사람의 승인 게이트와 함께 에이전트 전달을 조율합니다. Univer와 Orca를 통해 개발자는 AI 오피스 스위트를 구축하고 데스크톱과 모바일 전반에서 에이전트 런타임을 실행할 수 있습니다."
+  },
+  "recycledVocab": [
+    {
+      "word": "open-source",
+      "count": 3,
+      "ko": "오픈소스의"
+    },
+    {
+      "word": "skill",
+      "count": 2,
+      "ko": "스킬 (에이전트 확장 기능)"
+    },
+    {
+      "word": "bundle",
+      "count": 2,
+      "ko": "묶음, 번들"
+    },
+    {
+      "word": "agents",
+      "count": 2,
+      "ko": "에이전트들 (자율 AI 프로그램들)"
+    },
+    {
+      "word": "remote",
+      "count": 2,
+      "ko": "원격의"
+    },
+    {
+      "word": "workflows",
+      "count": 2,
+      "ko": "워크플로들 (작업 절차들)"
+    },
+    {
+      "word": "build",
+      "count": 2,
+      "ko": "만들다, 구축하다"
+    },
+    {
+      "word": "security",
+      "count": 1,
+      "ko": "보안 (취약점 방어)"
+    },
+    {
+      "word": "vulnerability",
+      "count": 1,
+      "ko": "보안 취약점"
+    },
+    {
+      "word": "runtime",
+      "count": 1,
+      "ko": "런타임 (프로그램 실행 환경)"
+    },
+    {
+      "word": "runtimes",
+      "count": 1,
+      "ko": "런타임 환경들"
+    },
+    {
+      "word": "fleet",
+      "count": 1,
+      "ko": "무리, 여러 대"
+    }
+  ],
+  "counts": {
+    "github": 15,
+    "gittrend": 20,
+    "trendshift": 30,
+    "starhistory": 0,
+    "unique": 54,
+    "multi": 10
+  }
+}
