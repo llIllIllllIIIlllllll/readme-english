@@ -1,0 +1,349 @@
+{
+  "date": "2026-11-23",
+  "multi": [
+    {
+      "fullName": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "descriptionKo": "에이전틱 스킬 프레임워크·개발 방법론",
+      "sources": [
+        "github",
+        "gittrend"
+      ]
+    },
+    {
+      "fullName": "firecrawl/firecrawl",
+      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "descriptionKo": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "sources": [
+        "github",
+        "gittrend"
+      ]
+    },
+    {
+      "fullName": "cathrynlavery/diagram-design",
+      "description": "",
+      "descriptionKo": "diagram-design",
+      "sources": [
+        "github",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "mjmirza/app-store-compliance",
+      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "descriptionKo": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "sources": [
+        "github",
+        "gittrend"
+      ]
+    },
+    {
+      "fullName": "XiaoYouChR/Ghost-Downloader-3",
+      "description": "The only downloader you need. 下载器的集大成者。",
+      "descriptionKo": "The only downloader you need. 下载器的集大成者。",
+      "sources": [
+        "github",
+        "gittrend"
+      ]
+    },
+    {
+      "fullName": "pingdotgg/t3code",
+      "description": "The best way to control Claude Code, Codex and more from any computer or phone",
+      "descriptionKo": "폰/PC에서 Claude Code·Codex 원격 제어",
+      "sources": [
+        "gittrend",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "havenicec/google-qr-sms-helper",
+      "description": "Chrome Extension (MV3) to switch Google's mandatory QR code verification back to standard 6-digit SMS verification via iPad Mini profile & [3,null,4] RPC fallback.",
+      "descriptionKo": "Chrome Extension (MV3) to switch Google's mandatory QR code verification back to standard 6-digit SMS verification via iPad Mini profile & [3,null,4] RPC fallback.",
+      "sources": [
+        "gittrend",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "stablyai/orca",
+      "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
+      "descriptionKo": "코딩 에이전트 플릿 데스크톱·모바일 런타임",
+      "sources": [
+        "gittrend",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "XinaTian/MROffice",
+      "description": "MR Office: open-source document, spreadsheet, presentation, PDF, handwriting and code editors. https://mroffice.ai",
+      "descriptionKo": "MR Office: open-source document, spreadsheet, presentation, PDF, handwriting and code editors. https://mroffice.ai",
+      "sources": [
+        "gittrend",
+        "trendshift"
+      ]
+    }
+  ],
+  "morning": [
+    {
+      "id": "m-2026-11-23-e-0",
+      "project": "stablyai/orca",
+      "level": "easy",
+      "english": "Orca lets you run coding agents on desktop and remote runtime.",
+      "korean": "Orca는 데스크톱과 원격 런타임에서 코딩 에이전트를 실행할 수 있게 해줍니다.",
+      "url": "https://github.com/stablyai/orca",
+      "recycledWords": [
+        "agents",
+        "runtime",
+        "remote"
+      ],
+      "gloss": {
+        "agents": "에이전트들 (자율 AI 프로그램들)",
+        "runtime": "런타임 (프로그램 실행 환경)",
+        "remote": "원격의"
+      },
+      "checkQuestion": {
+        "q": "Orca로 무엇을 실행할 수 있나요?",
+        "options": [
+          "코딩 에이전트",
+          "3D 게임 엔진"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-23-m-1",
+      "project": "stablyai/orca",
+      "level": "mid",
+      "english": "Orca lets you run a fleet of coding agents with your own subscription across desktop, mobile and remote runtimes.",
+      "korean": "Orca는 사용자의 구독을 사용해 데스크톱, 모바일, 원격 런타임 전반에서 코딩 에이전트 플릿을 실행할 수 있게 합니다.",
+      "url": "https://github.com/stablyai/orca",
+      "recycledWords": [
+        "agents",
+        "runtimes",
+        "remote",
+        "fleet"
+      ],
+      "gloss": {
+        "agents": "에이전트들 (자율 AI 프로그램들)",
+        "runtimes": "런타임 환경들",
+        "remote": "원격의",
+        "fleet": "무리, 여러 대"
+      },
+      "checkQuestion": {
+        "q": "Orca가 지원하는 런타임 환경은?",
+        "options": [
+          "데스크톱, 모바일, 원격 런타임",
+          "오직 리눅스 서버만 지원"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-23-e-2",
+      "project": "obra/superpowers",
+      "level": "easy",
+      "english": "superpowers is a trending open-source tool that helps developers build better workflows.",
+      "korean": "superpowers은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (에이전틱 스킬 프레임워크·개발 방법론).",
+      "url": "https://github.com/obra/superpowers",
+      "recycledWords": [
+        "workflows",
+        "build",
+        "open-source"
+      ],
+      "gloss": {
+        "workflows": "워크플로들 (작업 절차들)",
+        "build": "만들다, 구축하다",
+        "open-source": "오픈소스의"
+      },
+      "checkQuestion": {
+        "q": "superpowers은(는) 어떤 프로젝트인가요?",
+        "options": [
+          "오늘 주목받는 오픈소스 개발 도구",
+          "하드웨어 장비"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-23-m-3",
+      "project": "obra/superpowers",
+      "level": "mid",
+      "english": "An agentic skills framework & software development methodology that works.",
+      "korean": "에이전틱 스킬 프레임워크·개발 방법론",
+      "url": "https://github.com/obra/superpowers",
+      "recycledWords": [
+        "framework",
+        "skills"
+      ],
+      "gloss": {
+        "framework": "프레임워크 (개발 뼈대·기본 구조)",
+        "skills": "스킬들"
+      },
+      "checkQuestion": {
+        "q": "superpowers의 설명으로 올바른 것은?",
+        "options": [
+          "에이전틱 스킬 프레임워크·개발 방법론",
+          "전혀 다른 프로젝트"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-23-e-4",
+      "project": "firecrawl/firecrawl",
+      "level": "easy",
+      "english": "firecrawl is a trending open-source tool that helps developers build better workflows.",
+      "korean": "firecrawl은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.).",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "recycledWords": [
+        "workflows",
+        "build",
+        "open-source"
+      ],
+      "gloss": {
+        "workflows": "워크플로들 (작업 절차들)",
+        "build": "만들다, 구축하다",
+        "open-source": "오픈소스의"
+      },
+      "checkQuestion": {
+        "q": "firecrawl은(는) 어떤 프로젝트인가요?",
+        "options": [
+          "오늘 주목받는 오픈소스 개발 도구",
+          "하드웨어 장비"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-23-m-5",
+      "project": "firecrawl/firecrawl",
+      "level": "mid",
+      "english": "Knowledge infrastructure to make your agents smarter.",
+      "korean": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "recycledWords": [
+        "agents"
+      ],
+      "gloss": {
+        "agents": "에이전트들 (자율 AI 프로그램들)"
+      },
+      "checkQuestion": {
+        "q": "firecrawl의 설명으로 올바른 것은?",
+        "options": [
+          "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+          "전혀 다른 프로젝트"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-23-e-6",
+      "project": "cathrynlavery/diagram-design",
+      "level": "easy",
+      "english": "diagram-design is a trending open-source tool that helps developers build better workflows.",
+      "korean": "diagram-design은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (diagram-design).",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "recycledWords": [
+        "workflows",
+        "build",
+        "open-source"
+      ],
+      "gloss": {
+        "workflows": "워크플로들 (작업 절차들)",
+        "build": "만들다, 구축하다",
+        "open-source": "오픈소스의"
+      },
+      "checkQuestion": {
+        "q": "diagram-design은(는) 어떤 프로젝트인가요?",
+        "options": [
+          "오늘 주목받는 오픈소스 개발 도구",
+          "하드웨어 장비"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-23-m-7",
+      "project": "mjmirza/app-store-compliance",
+      "level": "mid",
+      "english": "Avoid common App Store and Google Play rejections.",
+      "korean": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "url": "https://github.com/mjmirza/app-store-compliance",
+      "recycledWords": [],
+      "gloss": {},
+      "checkQuestion": {
+        "q": "app-store-compliance의 설명으로 올바른 것은?",
+        "options": [
+          "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+          "전혀 다른 프로젝트"
+        ],
+        "answer": 0
+      }
+    }
+  ],
+  "passage": {
+    "title": "Today's OSS Story: Coding Agents & Autonomous Workflows",
+    "text": "Today's trending repositories focus on autonomous coding agents and extensible developer workflows. PaperOrchestra provides a multi-agent framework to write research papers, while LoopForge orchestrates agent delivery with human approval gates. With Univer and Orca, developers can build AI office suites and run agent runtimes across desktop and mobile.",
+    "korean": "오늘의 트렌딩 저장소들은 자율 코딩 에이전트와 확장 가능한 개발자 워크플로에 집중하고 있습니다. PaperOrchestra는 연구 논문을 작성하는 멀티 에이전트 프레임워크를 제공하며, LoopForge는 사람의 승인 게이트와 함께 에이전트 전달을 조율합니다. Univer와 Orca를 통해 개발자는 AI 오피스 스위트를 구축하고 데스크톱과 모바일 전반에서 에이전트 런타임을 실행할 수 있습니다."
+  },
+  "recycledVocab": [
+    {
+      "word": "agents",
+      "count": 3,
+      "ko": "에이전트들 (자율 AI 프로그램들)"
+    },
+    {
+      "word": "workflows",
+      "count": 3,
+      "ko": "워크플로들 (작업 절차들)"
+    },
+    {
+      "word": "build",
+      "count": 3,
+      "ko": "만들다, 구축하다"
+    },
+    {
+      "word": "open-source",
+      "count": 3,
+      "ko": "오픈소스의"
+    },
+    {
+      "word": "remote",
+      "count": 2,
+      "ko": "원격의"
+    },
+    {
+      "word": "runtime",
+      "count": 1,
+      "ko": "런타임 (프로그램 실행 환경)"
+    },
+    {
+      "word": "runtimes",
+      "count": 1,
+      "ko": "런타임 환경들"
+    },
+    {
+      "word": "fleet",
+      "count": 1,
+      "ko": "무리, 여러 대"
+    },
+    {
+      "word": "framework",
+      "count": 1,
+      "ko": "프레임워크 (개발 뼈대·기본 구조)"
+    },
+    {
+      "word": "skills",
+      "count": 1,
+      "ko": "스킬들"
+    }
+  ],
+  "counts": {
+    "github": 15,
+    "gittrend": 20,
+    "trendshift": 30,
+    "starhistory": 0,
+    "unique": 56,
+    "multi": 9
+  }
+}
