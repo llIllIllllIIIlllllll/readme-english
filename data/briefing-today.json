@@ -1,6 +1,36 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "multi": [
+    {
+      "fullName": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "descriptionKo": "모든 소프트웨어를 에이전트 네이티브 CLI로",
+      "sources": [
+        "github",
+        "gittrend",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "XiaoYouChR/Ghost-Downloader-3",
+      "description": "The only downloader you need. 下载器的集大成者。",
+      "descriptionKo": "The only downloader you need. 下载器的集大成者。",
+      "sources": [
+        "github",
+        "gittrend",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "zhouxiaoka/autoclip",
+      "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "descriptionKo": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "sources": [
+        "github",
+        "gittrend",
+        "trendshift"
+      ]
+    },
     {
       "fullName": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
@@ -8,24 +38,6 @@
       "sources": [
         "github",
         "gittrend"
-      ]
-    },
-    {
-      "fullName": "firecrawl/firecrawl",
-      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-      "descriptionKo": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-      "sources": [
-        "github",
-        "gittrend"
-      ]
-    },
-    {
-      "fullName": "cathrynlavery/diagram-design",
-      "description": "",
-      "descriptionKo": "diagram-design",
-      "sources": [
-        "github",
-        "trendshift"
       ]
     },
     {
@@ -38,12 +50,12 @@
       ]
     },
     {
-      "fullName": "XiaoYouChR/Ghost-Downloader-3",
-      "description": "The only downloader you need. 下载器的集大成者。",
-      "descriptionKo": "The only downloader you need. 下载器的集大成者。",
+      "fullName": "ivall/xcl",
+      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+      "descriptionKo": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
       "sources": [
-        "github",
-        "gittrend"
+        "gittrend",
+        "trendshift"
       ]
     },
     {
@@ -56,27 +68,9 @@
       ]
     },
     {
-      "fullName": "havenicec/google-qr-sms-helper",
-      "description": "Chrome Extension (MV3) to switch Google's mandatory QR code verification back to standard 6-digit SMS verification via iPad Mini profile & [3,null,4] RPC fallback.",
-      "descriptionKo": "Chrome Extension (MV3) to switch Google's mandatory QR code verification back to standard 6-digit SMS verification via iPad Mini profile & [3,null,4] RPC fallback.",
-      "sources": [
-        "gittrend",
-        "trendshift"
-      ]
-    },
-    {
-      "fullName": "stablyai/orca",
-      "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
-      "descriptionKo": "코딩 에이전트 플릿 데스크톱·모바일 런타임",
-      "sources": [
-        "gittrend",
-        "trendshift"
-      ]
-    },
-    {
-      "fullName": "XinaTian/MROffice",
-      "description": "MR Office: open-source document, spreadsheet, presentation, PDF, handwriting and code editors. https://mroffice.ai",
-      "descriptionKo": "MR Office: open-source document, spreadsheet, presentation, PDF, handwriting and code editors. https://mroffice.ai",
+      "fullName": "Hut-hzf/ung220z-tool",
+      "description": "ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+      "descriptionKo": "ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
       "sources": [
         "gittrend",
         "trendshift"
@@ -85,61 +79,147 @@
   ],
   "morning": [
     {
-      "id": "m-2026-11-23-e-0",
-      "project": "stablyai/orca",
+      "id": "m-2026-11-24-e-0",
+      "project": "HKUDS/CLI-Anything",
       "level": "easy",
-      "english": "Orca lets you run coding agents on desktop and remote runtime.",
-      "korean": "Orca는 데스크톱과 원격 런타임에서 코딩 에이전트를 실행할 수 있게 해줍니다.",
-      "url": "https://github.com/stablyai/orca",
+      "english": "CLI-Anything is a trending open-source tool that helps developers build better workflows.",
+      "korean": "CLI-Anything은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (모든 소프트웨어를 에이전트 네이티브 CLI로).",
+      "url": "https://github.com/HKUDS/CLI-Anything",
       "recycledWords": [
-        "agents",
-        "runtime",
-        "remote"
+        "workflows",
+        "build",
+        "open-source"
       ],
       "gloss": {
-        "agents": "에이전트들 (자율 AI 프로그램들)",
-        "runtime": "런타임 (프로그램 실행 환경)",
-        "remote": "원격의"
+        "workflows": "워크플로들 (작업 절차들)",
+        "build": "만들다, 구축하다",
+        "open-source": "오픈소스의"
       },
       "checkQuestion": {
-        "q": "Orca로 무엇을 실행할 수 있나요?",
+        "q": "CLI-Anything은(는) 어떤 프로젝트인가요?",
         "options": [
-          "코딩 에이전트",
-          "3D 게임 엔진"
+          "오늘 주목받는 오픈소스 개발 도구",
+          "하드웨어 장비"
         ],
         "answer": 0
       }
     },
     {
-      "id": "m-2026-11-23-m-1",
-      "project": "stablyai/orca",
+      "id": "m-2026-11-24-m-1",
+      "project": "HKUDS/CLI-Anything",
       "level": "mid",
-      "english": "Orca lets you run a fleet of coding agents with your own subscription across desktop, mobile and remote runtimes.",
-      "korean": "Orca는 사용자의 구독을 사용해 데스크톱, 모바일, 원격 런타임 전반에서 코딩 에이전트 플릿을 실행할 수 있게 합니다.",
-      "url": "https://github.com/stablyai/orca",
+      "english": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "korean": "모든 소프트웨어를 에이전트 네이티브 CLI로",
+      "url": "https://github.com/HKUDS/CLI-Anything",
       "recycledWords": [
-        "agents",
-        "runtimes",
-        "remote",
-        "fleet"
+        "agent"
       ],
       "gloss": {
-        "agents": "에이전트들 (자율 AI 프로그램들)",
-        "runtimes": "런타임 환경들",
-        "remote": "원격의",
-        "fleet": "무리, 여러 대"
+        "agent": "에이전트 (스스로 행동하는 AI 프로그램)"
       },
       "checkQuestion": {
-        "q": "Orca가 지원하는 런타임 환경은?",
+        "q": "CLI-Anything의 설명으로 올바른 것은?",
         "options": [
-          "데스크톱, 모바일, 원격 런타임",
-          "오직 리눅스 서버만 지원"
+          "모든 소프트웨어를 에이전트 네이티브 CLI로",
+          "전혀 다른 프로젝트"
         ],
         "answer": 0
       }
     },
     {
-      "id": "m-2026-11-23-e-2",
+      "id": "m-2026-11-24-e-2",
+      "project": "XiaoYouChR/Ghost-Downloader-3",
+      "level": "easy",
+      "english": "Ghost-Downloader-3 is a trending open-source tool that helps developers build better workflows.",
+      "korean": "Ghost-Downloader-3은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (The only downloader you need. 下载器的集大成者。).",
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "recycledWords": [
+        "workflows",
+        "build",
+        "open-source"
+      ],
+      "gloss": {
+        "workflows": "워크플로들 (작업 절차들)",
+        "build": "만들다, 구축하다",
+        "open-source": "오픈소스의"
+      },
+      "checkQuestion": {
+        "q": "Ghost-Downloader-3은(는) 어떤 프로젝트인가요?",
+        "options": [
+          "오늘 주목받는 오픈소스 개발 도구",
+          "하드웨어 장비"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-24-m-3",
+      "project": "XiaoYouChR/Ghost-Downloader-3",
+      "level": "mid",
+      "english": "The only downloader you need.",
+      "korean": "The only downloader you need. 下载器的集大成者。",
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "recycledWords": [],
+      "gloss": {},
+      "checkQuestion": {
+        "q": "Ghost-Downloader-3의 설명으로 올바른 것은?",
+        "options": [
+          "The only downloader you need. 下载器的集大成者。",
+          "전혀 다른 프로젝트"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-24-e-4",
+      "project": "zhouxiaoka/autoclip",
+      "level": "easy",
+      "english": "autoclip is a trending open-source tool that helps developers build better workflows.",
+      "korean": "autoclip은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.).",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "recycledWords": [
+        "workflows",
+        "build",
+        "open-source"
+      ],
+      "gloss": {
+        "workflows": "워크플로들 (작업 절차들)",
+        "build": "만들다, 구축하다",
+        "open-source": "오픈소스의"
+      },
+      "checkQuestion": {
+        "q": "autoclip은(는) 어떤 프로젝트인가요?",
+        "options": [
+          "오늘 주목받는 오픈소스 개발 도구",
+          "하드웨어 장비"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-24-m-5",
+      "project": "zhouxiaoka/autoclip",
+      "level": "mid",
+      "english": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "korean": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "recycledWords": [
+        "open-source"
+      ],
+      "gloss": {
+        "open-source": "오픈소스의"
+      },
+      "checkQuestion": {
+        "q": "autoclip의 설명으로 올바른 것은?",
+        "options": [
+          "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+          "전혀 다른 프로젝트"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-24-e-6",
       "project": "obra/superpowers",
       "level": "easy",
       "english": "superpowers is a trending open-source tool that helps developers build better workflows.",
@@ -165,7 +245,7 @@
       }
     },
     {
-      "id": "m-2026-11-23-m-3",
+      "id": "m-2026-11-24-m-7",
       "project": "obra/superpowers",
       "level": "mid",
       "english": "An agentic skills framework & software development methodology that works.",
@@ -187,98 +267,6 @@
         ],
         "answer": 0
       }
-    },
-    {
-      "id": "m-2026-11-23-e-4",
-      "project": "firecrawl/firecrawl",
-      "level": "easy",
-      "english": "firecrawl is a trending open-source tool that helps developers build better workflows.",
-      "korean": "firecrawl은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.).",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "recycledWords": [
-        "workflows",
-        "build",
-        "open-source"
-      ],
-      "gloss": {
-        "workflows": "워크플로들 (작업 절차들)",
-        "build": "만들다, 구축하다",
-        "open-source": "오픈소스의"
-      },
-      "checkQuestion": {
-        "q": "firecrawl은(는) 어떤 프로젝트인가요?",
-        "options": [
-          "오늘 주목받는 오픈소스 개발 도구",
-          "하드웨어 장비"
-        ],
-        "answer": 0
-      }
-    },
-    {
-      "id": "m-2026-11-23-m-5",
-      "project": "firecrawl/firecrawl",
-      "level": "mid",
-      "english": "Knowledge infrastructure to make your agents smarter.",
-      "korean": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "recycledWords": [
-        "agents"
-      ],
-      "gloss": {
-        "agents": "에이전트들 (자율 AI 프로그램들)"
-      },
-      "checkQuestion": {
-        "q": "firecrawl의 설명으로 올바른 것은?",
-        "options": [
-          "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-          "전혀 다른 프로젝트"
-        ],
-        "answer": 0
-      }
-    },
-    {
-      "id": "m-2026-11-23-e-6",
-      "project": "cathrynlavery/diagram-design",
-      "level": "easy",
-      "english": "diagram-design is a trending open-source tool that helps developers build better workflows.",
-      "korean": "diagram-design은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (diagram-design).",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "recycledWords": [
-        "workflows",
-        "build",
-        "open-source"
-      ],
-      "gloss": {
-        "workflows": "워크플로들 (작업 절차들)",
-        "build": "만들다, 구축하다",
-        "open-source": "오픈소스의"
-      },
-      "checkQuestion": {
-        "q": "diagram-design은(는) 어떤 프로젝트인가요?",
-        "options": [
-          "오늘 주목받는 오픈소스 개발 도구",
-          "하드웨어 장비"
-        ],
-        "answer": 0
-      }
-    },
-    {
-      "id": "m-2026-11-23-m-7",
-      "project": "mjmirza/app-store-compliance",
-      "level": "mid",
-      "english": "Avoid common App Store and Google Play rejections.",
-      "korean": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
-      "url": "https://github.com/mjmirza/app-store-compliance",
-      "recycledWords": [],
-      "gloss": {},
-      "checkQuestion": {
-        "q": "app-store-compliance의 설명으로 올바른 것은?",
-        "options": [
-          "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
-          "전혀 다른 프로젝트"
-        ],
-        "answer": 0
-      }
     }
   ],
   "passage": {
@@ -288,44 +276,24 @@
   },
   "recycledVocab": [
     {
-      "word": "agents",
-      "count": 3,
-      "ko": "에이전트들 (자율 AI 프로그램들)"
+      "word": "open-source",
+      "count": 5,
+      "ko": "오픈소스의"
     },
     {
       "word": "workflows",
-      "count": 3,
+      "count": 4,
       "ko": "워크플로들 (작업 절차들)"
     },
     {
       "word": "build",
-      "count": 3,
+      "count": 4,
       "ko": "만들다, 구축하다"
     },
     {
-      "word": "open-source",
-      "count": 3,
-      "ko": "오픈소스의"
-    },
-    {
-      "word": "remote",
-      "count": 2,
-      "ko": "원격의"
-    },
-    {
-      "word": "runtime",
+      "word": "agent",
       "count": 1,
-      "ko": "런타임 (프로그램 실행 환경)"
-    },
-    {
-      "word": "runtimes",
-      "count": 1,
-      "ko": "런타임 환경들"
-    },
-    {
-      "word": "fleet",
-      "count": 1,
-      "ko": "무리, 여러 대"
+      "ko": "에이전트 (스스로 행동하는 AI 프로그램)"
     },
     {
       "word": "framework",
@@ -341,9 +309,9 @@
   "counts": {
     "github": 15,
     "gittrend": 20,
-    "trendshift": 30,
+    "trendshift": 28,
     "starhistory": 0,
-    "unique": 56,
-    "multi": 9
+    "unique": 52,
+    "multi": 8
   }
 }
