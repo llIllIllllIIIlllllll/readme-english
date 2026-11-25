@@ -1,0 +1,186 @@
+{
+  "date": "2026-11-25",
+  "multi": [
+    {
+      "fullName": "HKUDS/CLI-Anything",
+      "description": "",
+      "descriptionKo": "모든 소프트웨어를 에이전트 네이티브 CLI로",
+      "sources": [
+        "github",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "jingyaogong/minimind",
+      "description": "",
+      "descriptionKo": "소형 LLM을 빠르게 학습하는 프로젝트",
+      "sources": [
+        "github",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "cathrynlavery/diagram-design",
+      "description": "",
+      "descriptionKo": "diagram-design",
+      "sources": [
+        "github",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "XiaoYouChR/Ghost-Downloader-3",
+      "description": "",
+      "descriptionKo": "Ghost-Downloader-3",
+      "sources": [
+        "github",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "zhouxiaoka/autoclip",
+      "description": "",
+      "descriptionKo": "autoclip",
+      "sources": [
+        "github",
+        "trendshift"
+      ]
+    }
+  ],
+  "morning": [
+    {
+      "id": "m-2026-11-25-e-0",
+      "project": "HKUDS/CLI-Anything",
+      "level": "easy",
+      "english": "CLI-Anything is a trending open-source tool that helps developers build better workflows.",
+      "korean": "CLI-Anything은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (모든 소프트웨어를 에이전트 네이티브 CLI로).",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "recycledWords": [
+        "workflows",
+        "build",
+        "open-source"
+      ],
+      "gloss": {
+        "workflows": "워크플로들 (작업 절차들)",
+        "build": "만들다, 구축하다",
+        "open-source": "오픈소스의"
+      },
+      "checkQuestion": {
+        "q": "CLI-Anything은(는) 어떤 프로젝트인가요?",
+        "options": [
+          "오늘 주목받는 오픈소스 개발 도구",
+          "하드웨어 장비"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-25-e-1",
+      "project": "jingyaogong/minimind",
+      "level": "easy",
+      "english": "minimind is a trending open-source tool that helps developers build better workflows.",
+      "korean": "minimind은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (소형 LLM을 빠르게 학습하는 프로젝트).",
+      "url": "https://github.com/jingyaogong/minimind",
+      "recycledWords": [
+        "workflows",
+        "build",
+        "open-source"
+      ],
+      "gloss": {
+        "workflows": "워크플로들 (작업 절차들)",
+        "build": "만들다, 구축하다",
+        "open-source": "오픈소스의"
+      },
+      "checkQuestion": {
+        "q": "minimind은(는) 어떤 프로젝트인가요?",
+        "options": [
+          "오늘 주목받는 오픈소스 개발 도구",
+          "하드웨어 장비"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-25-e-2",
+      "project": "cathrynlavery/diagram-design",
+      "level": "easy",
+      "english": "diagram-design is a trending open-source tool that helps developers build better workflows.",
+      "korean": "diagram-design은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (diagram-design).",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "recycledWords": [
+        "workflows",
+        "build",
+        "open-source"
+      ],
+      "gloss": {
+        "workflows": "워크플로들 (작업 절차들)",
+        "build": "만들다, 구축하다",
+        "open-source": "오픈소스의"
+      },
+      "checkQuestion": {
+        "q": "diagram-design은(는) 어떤 프로젝트인가요?",
+        "options": [
+          "오늘 주목받는 오픈소스 개발 도구",
+          "하드웨어 장비"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-25-e-3",
+      "project": "XiaoYouChR/Ghost-Downloader-3",
+      "level": "easy",
+      "english": "Ghost-Downloader-3 is a trending open-source tool that helps developers build better workflows.",
+      "korean": "Ghost-Downloader-3은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (Ghost-Downloader-3).",
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "recycledWords": [
+        "workflows",
+        "build",
+        "open-source"
+      ],
+      "gloss": {
+        "workflows": "워크플로들 (작업 절차들)",
+        "build": "만들다, 구축하다",
+        "open-source": "오픈소스의"
+      },
+      "checkQuestion": {
+        "q": "Ghost-Downloader-3은(는) 어떤 프로젝트인가요?",
+        "options": [
+          "오늘 주목받는 오픈소스 개발 도구",
+          "하드웨어 장비"
+        ],
+        "answer": 0
+      }
+    }
+  ],
+  "passage": {
+    "title": "Today's OSS Story: Coding Agents & Autonomous Workflows",
+    "text": "Today's trending repositories focus on autonomous coding agents and extensible developer workflows. PaperOrchestra provides a multi-agent framework to write research papers, while LoopForge orchestrates agent delivery with human approval gates. With Univer and Orca, developers can build AI office suites and run agent runtimes across desktop and mobile.",
+    "korean": "오늘의 트렌딩 저장소들은 자율 코딩 에이전트와 확장 가능한 개발자 워크플로에 집중하고 있습니다. PaperOrchestra는 연구 논문을 작성하는 멀티 에이전트 프레임워크를 제공하며, LoopForge는 사람의 승인 게이트와 함께 에이전트 전달을 조율합니다. Univer와 Orca를 통해 개발자는 AI 오피스 스위트를 구축하고 데스크톱과 모바일 전반에서 에이전트 런타임을 실행할 수 있습니다."
+  },
+  "recycledVocab": [
+    {
+      "word": "workflows",
+      "count": 4,
+      "ko": "워크플로들 (작업 절차들)"
+    },
+    {
+      "word": "build",
+      "count": 4,
+      "ko": "만들다, 구축하다"
+    },
+    {
+      "word": "open-source",
+      "count": 4,
+      "ko": "오픈소스의"
+    }
+  ],
+  "counts": {
+    "github": 15,
+    "gittrend": 0,
+    "trendshift": 30,
+    "starhistory": 0,
+    "unique": 40,
+    "multi": 5
+  }
+}

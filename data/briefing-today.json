@@ -1,85 +1,55 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "multi": [
     {
       "fullName": "HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "description": "",
       "descriptionKo": "모든 소프트웨어를 에이전트 네이티브 CLI로",
       "sources": [
         "github",
-        "gittrend",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "jingyaogong/minimind",
+      "description": "",
+      "descriptionKo": "소형 LLM을 빠르게 학습하는 프로젝트",
+      "sources": [
+        "github",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "cathrynlavery/diagram-design",
+      "description": "",
+      "descriptionKo": "diagram-design",
+      "sources": [
+        "github",
         "trendshift"
       ]
     },
     {
       "fullName": "XiaoYouChR/Ghost-Downloader-3",
-      "description": "The only downloader you need. 下载器的集大成者。",
-      "descriptionKo": "The only downloader you need. 下载器的集大成者。",
+      "description": "",
+      "descriptionKo": "Ghost-Downloader-3",
       "sources": [
         "github",
-        "gittrend",
         "trendshift"
       ]
     },
     {
       "fullName": "zhouxiaoka/autoclip",
-      "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
-      "descriptionKo": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "description": "",
+      "descriptionKo": "autoclip",
       "sources": [
         "github",
-        "gittrend",
-        "trendshift"
-      ]
-    },
-    {
-      "fullName": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "descriptionKo": "에이전틱 스킬 프레임워크·개발 방법론",
-      "sources": [
-        "github",
-        "gittrend"
-      ]
-    },
-    {
-      "fullName": "mjmirza/app-store-compliance",
-      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
-      "descriptionKo": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
-      "sources": [
-        "github",
-        "gittrend"
-      ]
-    },
-    {
-      "fullName": "ivall/xcl",
-      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
-      "descriptionKo": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
-      "sources": [
-        "gittrend",
-        "trendshift"
-      ]
-    },
-    {
-      "fullName": "pingdotgg/t3code",
-      "description": "The best way to control Claude Code, Codex and more from any computer or phone",
-      "descriptionKo": "폰/PC에서 Claude Code·Codex 원격 제어",
-      "sources": [
-        "gittrend",
-        "trendshift"
-      ]
-    },
-    {
-      "fullName": "Hut-hzf/ung220z-tool",
-      "description": "ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
-      "descriptionKo": "ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
-      "sources": [
-        "gittrend",
         "trendshift"
       ]
     }
   ],
   "morning": [
     {
-      "id": "m-2026-11-24-e-0",
+      "id": "m-2026-11-25-e-0",
       "project": "HKUDS/CLI-Anything",
       "level": "easy",
       "english": "CLI-Anything is a trending open-source tool that helps developers build better workflows.",
@@ -105,33 +75,63 @@
       }
     },
     {
-      "id": "m-2026-11-24-m-1",
-      "project": "HKUDS/CLI-Anything",
-      "level": "mid",
-      "english": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "korean": "모든 소프트웨어를 에이전트 네이티브 CLI로",
-      "url": "https://github.com/HKUDS/CLI-Anything",
+      "id": "m-2026-11-25-e-1",
+      "project": "jingyaogong/minimind",
+      "level": "easy",
+      "english": "minimind is a trending open-source tool that helps developers build better workflows.",
+      "korean": "minimind은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (소형 LLM을 빠르게 학습하는 프로젝트).",
+      "url": "https://github.com/jingyaogong/minimind",
       "recycledWords": [
-        "agent"
+        "workflows",
+        "build",
+        "open-source"
       ],
       "gloss": {
-        "agent": "에이전트 (스스로 행동하는 AI 프로그램)"
+        "workflows": "워크플로들 (작업 절차들)",
+        "build": "만들다, 구축하다",
+        "open-source": "오픈소스의"
       },
       "checkQuestion": {
-        "q": "CLI-Anything의 설명으로 올바른 것은?",
+        "q": "minimind은(는) 어떤 프로젝트인가요?",
         "options": [
-          "모든 소프트웨어를 에이전트 네이티브 CLI로",
-          "전혀 다른 프로젝트"
+          "오늘 주목받는 오픈소스 개발 도구",
+          "하드웨어 장비"
         ],
         "answer": 0
       }
     },
     {
-      "id": "m-2026-11-24-e-2",
+      "id": "m-2026-11-25-e-2",
+      "project": "cathrynlavery/diagram-design",
+      "level": "easy",
+      "english": "diagram-design is a trending open-source tool that helps developers build better workflows.",
+      "korean": "diagram-design은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (diagram-design).",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "recycledWords": [
+        "workflows",
+        "build",
+        "open-source"
+      ],
+      "gloss": {
+        "workflows": "워크플로들 (작업 절차들)",
+        "build": "만들다, 구축하다",
+        "open-source": "오픈소스의"
+      },
+      "checkQuestion": {
+        "q": "diagram-design은(는) 어떤 프로젝트인가요?",
+        "options": [
+          "오늘 주목받는 오픈소스 개발 도구",
+          "하드웨어 장비"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-25-e-3",
       "project": "XiaoYouChR/Ghost-Downloader-3",
       "level": "easy",
       "english": "Ghost-Downloader-3 is a trending open-source tool that helps developers build better workflows.",
-      "korean": "Ghost-Downloader-3은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (The only downloader you need. 下载器的集大成者。).",
+      "korean": "Ghost-Downloader-3은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (Ghost-Downloader-3).",
       "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
       "recycledWords": [
         "workflows",
@@ -151,122 +151,6 @@
         ],
         "answer": 0
       }
-    },
-    {
-      "id": "m-2026-11-24-m-3",
-      "project": "XiaoYouChR/Ghost-Downloader-3",
-      "level": "mid",
-      "english": "The only downloader you need.",
-      "korean": "The only downloader you need. 下载器的集大成者。",
-      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
-      "recycledWords": [],
-      "gloss": {},
-      "checkQuestion": {
-        "q": "Ghost-Downloader-3의 설명으로 올바른 것은?",
-        "options": [
-          "The only downloader you need. 下载器的集大成者。",
-          "전혀 다른 프로젝트"
-        ],
-        "answer": 0
-      }
-    },
-    {
-      "id": "m-2026-11-24-e-4",
-      "project": "zhouxiaoka/autoclip",
-      "level": "easy",
-      "english": "autoclip is a trending open-source tool that helps developers build better workflows.",
-      "korean": "autoclip은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.).",
-      "url": "https://github.com/zhouxiaoka/autoclip",
-      "recycledWords": [
-        "workflows",
-        "build",
-        "open-source"
-      ],
-      "gloss": {
-        "workflows": "워크플로들 (작업 절차들)",
-        "build": "만들다, 구축하다",
-        "open-source": "오픈소스의"
-      },
-      "checkQuestion": {
-        "q": "autoclip은(는) 어떤 프로젝트인가요?",
-        "options": [
-          "오늘 주목받는 오픈소스 개발 도구",
-          "하드웨어 장비"
-        ],
-        "answer": 0
-      }
-    },
-    {
-      "id": "m-2026-11-24-m-5",
-      "project": "zhouxiaoka/autoclip",
-      "level": "mid",
-      "english": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
-      "korean": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
-      "url": "https://github.com/zhouxiaoka/autoclip",
-      "recycledWords": [
-        "open-source"
-      ],
-      "gloss": {
-        "open-source": "오픈소스의"
-      },
-      "checkQuestion": {
-        "q": "autoclip의 설명으로 올바른 것은?",
-        "options": [
-          "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
-          "전혀 다른 프로젝트"
-        ],
-        "answer": 0
-      }
-    },
-    {
-      "id": "m-2026-11-24-e-6",
-      "project": "obra/superpowers",
-      "level": "easy",
-      "english": "superpowers is a trending open-source tool that helps developers build better workflows.",
-      "korean": "superpowers은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (에이전틱 스킬 프레임워크·개발 방법론).",
-      "url": "https://github.com/obra/superpowers",
-      "recycledWords": [
-        "workflows",
-        "build",
-        "open-source"
-      ],
-      "gloss": {
-        "workflows": "워크플로들 (작업 절차들)",
-        "build": "만들다, 구축하다",
-        "open-source": "오픈소스의"
-      },
-      "checkQuestion": {
-        "q": "superpowers은(는) 어떤 프로젝트인가요?",
-        "options": [
-          "오늘 주목받는 오픈소스 개발 도구",
-          "하드웨어 장비"
-        ],
-        "answer": 0
-      }
-    },
-    {
-      "id": "m-2026-11-24-m-7",
-      "project": "obra/superpowers",
-      "level": "mid",
-      "english": "An agentic skills framework & software development methodology that works.",
-      "korean": "에이전틱 스킬 프레임워크·개발 방법론",
-      "url": "https://github.com/obra/superpowers",
-      "recycledWords": [
-        "framework",
-        "skills"
-      ],
-      "gloss": {
-        "framework": "프레임워크 (개발 뼈대·기본 구조)",
-        "skills": "스킬들"
-      },
-      "checkQuestion": {
-        "q": "superpowers의 설명으로 올바른 것은?",
-        "options": [
-          "에이전틱 스킬 프레임워크·개발 방법론",
-          "전혀 다른 프로젝트"
-        ],
-        "answer": 0
-      }
     }
   ],
   "passage": {
@@ -275,11 +159,6 @@
     "korean": "오늘의 트렌딩 저장소들은 자율 코딩 에이전트와 확장 가능한 개발자 워크플로에 집중하고 있습니다. PaperOrchestra는 연구 논문을 작성하는 멀티 에이전트 프레임워크를 제공하며, LoopForge는 사람의 승인 게이트와 함께 에이전트 전달을 조율합니다. Univer와 Orca를 통해 개발자는 AI 오피스 스위트를 구축하고 데스크톱과 모바일 전반에서 에이전트 런타임을 실행할 수 있습니다."
   },
   "recycledVocab": [
-    {
-      "word": "open-source",
-      "count": 5,
-      "ko": "오픈소스의"
-    },
     {
       "word": "workflows",
       "count": 4,
@@ -291,27 +170,17 @@
       "ko": "만들다, 구축하다"
     },
     {
-      "word": "agent",
-      "count": 1,
-      "ko": "에이전트 (스스로 행동하는 AI 프로그램)"
-    },
-    {
-      "word": "framework",
-      "count": 1,
-      "ko": "프레임워크 (개발 뼈대·기본 구조)"
-    },
-    {
-      "word": "skills",
-      "count": 1,
-      "ko": "스킬들"
+      "word": "open-source",
+      "count": 4,
+      "ko": "오픈소스의"
     }
   ],
   "counts": {
     "github": 15,
-    "gittrend": 20,
-    "trendshift": 28,
+    "gittrend": 0,
+    "trendshift": 30,
     "starhistory": 0,
-    "unique": 52,
-    "multi": 8
+    "unique": 40,
+    "multi": 5
   }
 }
