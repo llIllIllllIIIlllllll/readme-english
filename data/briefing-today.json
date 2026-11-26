@@ -1,13 +1,33 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "multi": [
     {
+      "fullName": "cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "descriptionKo": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "sources": [
+        "github",
+        "gittrend",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "zhouxiaoka/autoclip",
+      "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "descriptionKo": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "sources": [
+        "github",
+        "gittrend",
+        "trendshift"
+      ]
+    },
+    {
       "fullName": "HKUDS/CLI-Anything",
-      "description": "",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "descriptionKo": "모든 소프트웨어를 에이전트 네이티브 CLI로",
       "sources": [
         "github",
-        "trendshift"
+        "gittrend"
       ]
     },
     {
@@ -20,36 +40,227 @@
       ]
     },
     {
-      "fullName": "cathrynlavery/diagram-design",
-      "description": "",
-      "descriptionKo": "diagram-design",
+      "fullName": "firecrawl/firecrawl",
+      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "descriptionKo": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
       "sources": [
         "github",
-        "trendshift"
+        "gittrend"
+      ]
+    },
+    {
+      "fullName": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "descriptionKo": "소셜·웹에서 주제를 조사해 요약하는 AI 스킬",
+      "sources": [
+        "github",
+        "gittrend"
       ]
     },
     {
       "fullName": "XiaoYouChR/Ghost-Downloader-3",
-      "description": "",
-      "descriptionKo": "Ghost-Downloader-3",
+      "description": "The only downloader you need. 下载器的集大成者。",
+      "descriptionKo": "The only downloader you need. 下载器的集大成者。",
       "sources": [
         "github",
+        "gittrend"
+      ]
+    },
+    {
+      "fullName": "stablyai/orca",
+      "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
+      "descriptionKo": "코딩 에이전트 플릿 데스크톱·모바일 런타임",
+      "sources": [
+        "gittrend",
         "trendshift"
       ]
     },
     {
-      "fullName": "zhouxiaoka/autoclip",
-      "description": "",
-      "descriptionKo": "autoclip",
+      "fullName": "4lwayz/portwatch-vi",
+      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+      "descriptionKo": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
       "sources": [
-        "github",
+        "gittrend",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "XinaTian/MROffice",
+      "description": "MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor edits real Word, Excel and PowerPoint files with you; an MCP server lets Claude, ChatGPT, Cursor and Codex create and edit them; embed it in your app with one line.",
+      "descriptionKo": "MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor edits real Word, Excel and PowerPoint files with you; an MCP server lets Claude, ChatGPT, Cursor and Codex create and edit them; embed it in your app with one line.",
+      "sources": [
+        "gittrend",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "antigravity-cn-community/Antigravity-Chinese-Localization",
+      "description": "antigravity一键汉化",
+      "descriptionKo": "antigravity一键汉化",
+      "sources": [
+        "gittrend",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "google-gemini/gemini-api-cli",
+      "description": "An (experimental) CLI for the Gemini API",
+      "descriptionKo": "An (experimental) CLI for the Gemini API",
+      "sources": [
+        "gittrend",
         "trendshift"
       ]
     }
   ],
   "morning": [
     {
-      "id": "m-2026-11-25-e-0",
+      "id": "m-2026-11-26-e-0",
+      "project": "stablyai/orca",
+      "level": "easy",
+      "english": "Orca lets you run coding agents on desktop and remote runtime.",
+      "korean": "Orca는 데스크톱과 원격 런타임에서 코딩 에이전트를 실행할 수 있게 해줍니다.",
+      "url": "https://github.com/stablyai/orca",
+      "recycledWords": [
+        "agents",
+        "runtime",
+        "remote"
+      ],
+      "gloss": {
+        "agents": "에이전트들 (자율 AI 프로그램들)",
+        "runtime": "런타임 (프로그램 실행 환경)",
+        "remote": "원격의"
+      },
+      "checkQuestion": {
+        "q": "Orca로 무엇을 실행할 수 있나요?",
+        "options": [
+          "코딩 에이전트",
+          "3D 게임 엔진"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-26-m-1",
+      "project": "stablyai/orca",
+      "level": "mid",
+      "english": "Orca lets you run a fleet of coding agents with your own subscription across desktop, mobile and remote runtimes.",
+      "korean": "Orca는 사용자의 구독을 사용해 데스크톱, 모바일, 원격 런타임 전반에서 코딩 에이전트 플릿을 실행할 수 있게 합니다.",
+      "url": "https://github.com/stablyai/orca",
+      "recycledWords": [
+        "agents",
+        "runtimes",
+        "remote",
+        "fleet"
+      ],
+      "gloss": {
+        "agents": "에이전트들 (자율 AI 프로그램들)",
+        "runtimes": "런타임 환경들",
+        "remote": "원격의",
+        "fleet": "무리, 여러 대"
+      },
+      "checkQuestion": {
+        "q": "Orca가 지원하는 런타임 환경은?",
+        "options": [
+          "데스크톱, 모바일, 원격 런타임",
+          "오직 리눅스 서버만 지원"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-26-e-2",
+      "project": "cathrynlavery/diagram-design",
+      "level": "easy",
+      "english": "diagram-design is a trending open-source tool that helps developers build better workflows.",
+      "korean": "diagram-design은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.).",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "recycledWords": [
+        "workflows",
+        "build",
+        "open-source"
+      ],
+      "gloss": {
+        "workflows": "워크플로들 (작업 절차들)",
+        "build": "만들다, 구축하다",
+        "open-source": "오픈소스의"
+      },
+      "checkQuestion": {
+        "q": "diagram-design은(는) 어떤 프로젝트인가요?",
+        "options": [
+          "오늘 주목받는 오픈소스 개발 도구",
+          "하드웨어 장비"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-26-m-3",
+      "project": "cathrynlavery/diagram-design",
+      "level": "mid",
+      "english": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi.",
+      "korean": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "recycledWords": [],
+      "gloss": {},
+      "checkQuestion": {
+        "q": "diagram-design의 설명으로 올바른 것은?",
+        "options": [
+          "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+          "전혀 다른 프로젝트"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-26-e-4",
+      "project": "zhouxiaoka/autoclip",
+      "level": "easy",
+      "english": "autoclip is a trending open-source tool that helps developers build better workflows.",
+      "korean": "autoclip은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.).",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "recycledWords": [
+        "workflows",
+        "build",
+        "open-source"
+      ],
+      "gloss": {
+        "workflows": "워크플로들 (작업 절차들)",
+        "build": "만들다, 구축하다",
+        "open-source": "오픈소스의"
+      },
+      "checkQuestion": {
+        "q": "autoclip은(는) 어떤 프로젝트인가요?",
+        "options": [
+          "오늘 주목받는 오픈소스 개발 도구",
+          "하드웨어 장비"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-26-m-5",
+      "project": "zhouxiaoka/autoclip",
+      "level": "mid",
+      "english": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "korean": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "recycledWords": [
+        "open-source"
+      ],
+      "gloss": {
+        "open-source": "오픈소스의"
+      },
+      "checkQuestion": {
+        "q": "autoclip의 설명으로 올바른 것은?",
+        "options": [
+          "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+          "전혀 다른 프로젝트"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-26-e-6",
       "project": "HKUDS/CLI-Anything",
       "level": "easy",
       "english": "CLI-Anything is a trending open-source tool that helps developers build better workflows.",
@@ -75,79 +286,23 @@
       }
     },
     {
-      "id": "m-2026-11-25-e-1",
-      "project": "jingyaogong/minimind",
-      "level": "easy",
-      "english": "minimind is a trending open-source tool that helps developers build better workflows.",
-      "korean": "minimind은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (소형 LLM을 빠르게 학습하는 프로젝트).",
-      "url": "https://github.com/jingyaogong/minimind",
+      "id": "m-2026-11-26-m-7",
+      "project": "HKUDS/CLI-Anything",
+      "level": "mid",
+      "english": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "korean": "모든 소프트웨어를 에이전트 네이티브 CLI로",
+      "url": "https://github.com/HKUDS/CLI-Anything",
       "recycledWords": [
-        "workflows",
-        "build",
-        "open-source"
+        "agent"
       ],
       "gloss": {
-        "workflows": "워크플로들 (작업 절차들)",
-        "build": "만들다, 구축하다",
-        "open-source": "오픈소스의"
+        "agent": "에이전트 (스스로 행동하는 AI 프로그램)"
       },
       "checkQuestion": {
-        "q": "minimind은(는) 어떤 프로젝트인가요?",
+        "q": "CLI-Anything의 설명으로 올바른 것은?",
         "options": [
-          "오늘 주목받는 오픈소스 개발 도구",
-          "하드웨어 장비"
-        ],
-        "answer": 0
-      }
-    },
-    {
-      "id": "m-2026-11-25-e-2",
-      "project": "cathrynlavery/diagram-design",
-      "level": "easy",
-      "english": "diagram-design is a trending open-source tool that helps developers build better workflows.",
-      "korean": "diagram-design은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (diagram-design).",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "recycledWords": [
-        "workflows",
-        "build",
-        "open-source"
-      ],
-      "gloss": {
-        "workflows": "워크플로들 (작업 절차들)",
-        "build": "만들다, 구축하다",
-        "open-source": "오픈소스의"
-      },
-      "checkQuestion": {
-        "q": "diagram-design은(는) 어떤 프로젝트인가요?",
-        "options": [
-          "오늘 주목받는 오픈소스 개발 도구",
-          "하드웨어 장비"
-        ],
-        "answer": 0
-      }
-    },
-    {
-      "id": "m-2026-11-25-e-3",
-      "project": "XiaoYouChR/Ghost-Downloader-3",
-      "level": "easy",
-      "english": "Ghost-Downloader-3 is a trending open-source tool that helps developers build better workflows.",
-      "korean": "Ghost-Downloader-3은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (Ghost-Downloader-3).",
-      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
-      "recycledWords": [
-        "workflows",
-        "build",
-        "open-source"
-      ],
-      "gloss": {
-        "workflows": "워크플로들 (작업 절차들)",
-        "build": "만들다, 구축하다",
-        "open-source": "오픈소스의"
-      },
-      "checkQuestion": {
-        "q": "Ghost-Downloader-3은(는) 어떤 프로젝트인가요?",
-        "options": [
-          "오늘 주목받는 오픈소스 개발 도구",
-          "하드웨어 장비"
+          "모든 소프트웨어를 에이전트 네이티브 CLI로",
+          "전혀 다른 프로젝트"
         ],
         "answer": 0
       }
@@ -160,27 +315,57 @@
   },
   "recycledVocab": [
     {
-      "word": "workflows",
+      "word": "open-source",
       "count": 4,
+      "ko": "오픈소스의"
+    },
+    {
+      "word": "workflows",
+      "count": 3,
       "ko": "워크플로들 (작업 절차들)"
     },
     {
       "word": "build",
-      "count": 4,
+      "count": 3,
       "ko": "만들다, 구축하다"
     },
     {
-      "word": "open-source",
-      "count": 4,
-      "ko": "오픈소스의"
+      "word": "agents",
+      "count": 2,
+      "ko": "에이전트들 (자율 AI 프로그램들)"
+    },
+    {
+      "word": "remote",
+      "count": 2,
+      "ko": "원격의"
+    },
+    {
+      "word": "runtime",
+      "count": 1,
+      "ko": "런타임 (프로그램 실행 환경)"
+    },
+    {
+      "word": "runtimes",
+      "count": 1,
+      "ko": "런타임 환경들"
+    },
+    {
+      "word": "fleet",
+      "count": 1,
+      "ko": "무리, 여러 대"
+    },
+    {
+      "word": "agent",
+      "count": 1,
+      "ko": "에이전트 (스스로 행동하는 AI 프로그램)"
     }
   ],
   "counts": {
     "github": 15,
-    "gittrend": 0,
+    "gittrend": 20,
     "trendshift": 30,
     "starhistory": 0,
-    "unique": 40,
-    "multi": 5
+    "unique": 51,
+    "multi": 12
   }
 }
