@@ -1,0 +1,287 @@
+{
+  "date": "2026-11-27",
+  "multi": [
+    {
+      "fullName": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "descriptionKo": "에이전틱 스킬 프레임워크·개발 방법론",
+      "sources": [
+        "github",
+        "gittrend"
+      ]
+    },
+    {
+      "fullName": "firecrawl/firecrawl",
+      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "descriptionKo": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "sources": [
+        "github",
+        "gittrend"
+      ]
+    },
+    {
+      "fullName": "XiaoYouChR/Ghost-Downloader-3",
+      "description": "The only downloader you need. 下载器的集大成者。",
+      "descriptionKo": "The only downloader you need. 下载器的集大成者。",
+      "sources": [
+        "github",
+        "gittrend"
+      ]
+    },
+    {
+      "fullName": "zhouxiaoka/autoclip",
+      "description": "AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。",
+      "descriptionKo": "AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。",
+      "sources": [
+        "github",
+        "gittrend"
+      ]
+    },
+    {
+      "fullName": "Belobug/VIctory-Belobug-AMD",
+      "description": "A high-performance Rust library for quantum calibration experiment visualization, offering a fast and flexible alternative to traditional plotting tools in the quantum computing domain.",
+      "descriptionKo": "A high-performance Rust library for quantum calibration experiment visualization, offering a fast and flexible alternative to traditional plotting tools in the quantum computing domain.",
+      "sources": [
+        "gittrend",
+        "trendshift"
+      ]
+    }
+  ],
+  "morning": [
+    {
+      "id": "m-2026-11-27-e-0",
+      "project": "obra/superpowers",
+      "level": "easy",
+      "english": "superpowers is a trending open-source tool that helps developers build better workflows.",
+      "korean": "superpowers은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (에이전틱 스킬 프레임워크·개발 방법론).",
+      "url": "https://github.com/obra/superpowers",
+      "recycledWords": [
+        "workflows",
+        "build",
+        "open-source"
+      ],
+      "gloss": {
+        "workflows": "워크플로들 (작업 절차들)",
+        "build": "만들다, 구축하다",
+        "open-source": "오픈소스의"
+      },
+      "checkQuestion": {
+        "q": "superpowers은(는) 어떤 프로젝트인가요?",
+        "options": [
+          "오늘 주목받는 오픈소스 개발 도구",
+          "하드웨어 장비"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-27-m-1",
+      "project": "obra/superpowers",
+      "level": "mid",
+      "english": "An agentic skills framework & software development methodology that works.",
+      "korean": "에이전틱 스킬 프레임워크·개발 방법론",
+      "url": "https://github.com/obra/superpowers",
+      "recycledWords": [
+        "framework",
+        "skills"
+      ],
+      "gloss": {
+        "framework": "프레임워크 (개발 뼈대·기본 구조)",
+        "skills": "스킬들"
+      },
+      "checkQuestion": {
+        "q": "superpowers의 설명으로 올바른 것은?",
+        "options": [
+          "에이전틱 스킬 프레임워크·개발 방법론",
+          "전혀 다른 프로젝트"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-27-e-2",
+      "project": "firecrawl/firecrawl",
+      "level": "easy",
+      "english": "firecrawl is a trending open-source tool that helps developers build better workflows.",
+      "korean": "firecrawl은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.).",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "recycledWords": [
+        "workflows",
+        "build",
+        "open-source"
+      ],
+      "gloss": {
+        "workflows": "워크플로들 (작업 절차들)",
+        "build": "만들다, 구축하다",
+        "open-source": "오픈소스의"
+      },
+      "checkQuestion": {
+        "q": "firecrawl은(는) 어떤 프로젝트인가요?",
+        "options": [
+          "오늘 주목받는 오픈소스 개발 도구",
+          "하드웨어 장비"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-27-m-3",
+      "project": "firecrawl/firecrawl",
+      "level": "mid",
+      "english": "Knowledge infrastructure to make your agents smarter.",
+      "korean": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "recycledWords": [
+        "agents"
+      ],
+      "gloss": {
+        "agents": "에이전트들 (자율 AI 프로그램들)"
+      },
+      "checkQuestion": {
+        "q": "firecrawl의 설명으로 올바른 것은?",
+        "options": [
+          "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+          "전혀 다른 프로젝트"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-27-e-4",
+      "project": "XiaoYouChR/Ghost-Downloader-3",
+      "level": "easy",
+      "english": "Ghost-Downloader-3 is a trending open-source tool that helps developers build better workflows.",
+      "korean": "Ghost-Downloader-3은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (The only downloader you need. 下载器的集大成者。).",
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "recycledWords": [
+        "workflows",
+        "build",
+        "open-source"
+      ],
+      "gloss": {
+        "workflows": "워크플로들 (작업 절차들)",
+        "build": "만들다, 구축하다",
+        "open-source": "오픈소스의"
+      },
+      "checkQuestion": {
+        "q": "Ghost-Downloader-3은(는) 어떤 프로젝트인가요?",
+        "options": [
+          "오늘 주목받는 오픈소스 개발 도구",
+          "하드웨어 장비"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-27-m-5",
+      "project": "XiaoYouChR/Ghost-Downloader-3",
+      "level": "mid",
+      "english": "The only downloader you need.",
+      "korean": "The only downloader you need. 下载器的集大成者。",
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "recycledWords": [],
+      "gloss": {},
+      "checkQuestion": {
+        "q": "Ghost-Downloader-3의 설명으로 올바른 것은?",
+        "options": [
+          "The only downloader you need. 下载器的集大成者。",
+          "전혀 다른 프로젝트"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-27-e-6",
+      "project": "zhouxiaoka/autoclip",
+      "level": "easy",
+      "english": "autoclip is a trending open-source tool that helps developers build better workflows.",
+      "korean": "autoclip은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。).",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "recycledWords": [
+        "workflows",
+        "build",
+        "open-source"
+      ],
+      "gloss": {
+        "workflows": "워크플로들 (작업 절차들)",
+        "build": "만들다, 구축하다",
+        "open-source": "오픈소스의"
+      },
+      "checkQuestion": {
+        "q": "autoclip은(는) 어떤 프로젝트인가요?",
+        "options": [
+          "오늘 주목받는 오픈소스 개발 도구",
+          "하드웨어 장비"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-27-m-7",
+      "project": "zhouxiaoka/autoclip",
+      "level": "mid",
+      "english": "AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions.",
+      "korean": "AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "recycledWords": [
+        "open-source"
+      ],
+      "gloss": {
+        "open-source": "오픈소스의"
+      },
+      "checkQuestion": {
+        "q": "autoclip의 설명으로 올바른 것은?",
+        "options": [
+          "AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。",
+          "전혀 다른 프로젝트"
+        ],
+        "answer": 0
+      }
+    }
+  ],
+  "passage": {
+    "title": "Today's OSS Story: Coding Agents & Autonomous Workflows",
+    "text": "Today's trending repositories focus on autonomous coding agents and extensible developer workflows. PaperOrchestra provides a multi-agent framework to write research papers, while LoopForge orchestrates agent delivery with human approval gates. With Univer and Orca, developers can build AI office suites and run agent runtimes across desktop and mobile.",
+    "korean": "오늘의 트렌딩 저장소들은 자율 코딩 에이전트와 확장 가능한 개발자 워크플로에 집중하고 있습니다. PaperOrchestra는 연구 논문을 작성하는 멀티 에이전트 프레임워크를 제공하며, LoopForge는 사람의 승인 게이트와 함께 에이전트 전달을 조율합니다. Univer와 Orca를 통해 개발자는 AI 오피스 스위트를 구축하고 데스크톱과 모바일 전반에서 에이전트 런타임을 실행할 수 있습니다."
+  },
+  "recycledVocab": [
+    {
+      "word": "open-source",
+      "count": 5,
+      "ko": "오픈소스의"
+    },
+    {
+      "word": "workflows",
+      "count": 4,
+      "ko": "워크플로들 (작업 절차들)"
+    },
+    {
+      "word": "build",
+      "count": 4,
+      "ko": "만들다, 구축하다"
+    },
+    {
+      "word": "framework",
+      "count": 1,
+      "ko": "프레임워크 (개발 뼈대·기본 구조)"
+    },
+    {
+      "word": "skills",
+      "count": 1,
+      "ko": "스킬들"
+    },
+    {
+      "word": "agents",
+      "count": 1,
+      "ko": "에이전트들 (자율 AI 프로그램들)"
+    }
+  ],
+  "counts": {
+    "github": 15,
+    "gittrend": 20,
+    "trendshift": 30,
+    "starhistory": 0,
+    "unique": 60,
+    "multi": 5
+  }
+}
