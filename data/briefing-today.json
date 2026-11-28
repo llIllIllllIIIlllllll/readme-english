@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "multi": [
     {
       "fullName": "obra/superpowers",
@@ -11,36 +11,72 @@
       ]
     },
     {
-      "fullName": "firecrawl/firecrawl",
-      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-      "descriptionKo": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "fullName": "mjmirza/app-store-compliance",
+      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "descriptionKo": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
       "sources": [
         "github",
         "gittrend"
       ]
     },
     {
-      "fullName": "XiaoYouChR/Ghost-Downloader-3",
-      "description": "The only downloader you need. 下载器的集大成者。",
-      "descriptionKo": "The only downloader you need. 下载器的集大成者。",
+      "fullName": "trustno1-coder/VIctory-NVIDIA",
+      "description": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks. Built on many repos combined into one. No game files or NVIDIA files included.",
+      "descriptionKo": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks. Built on many repos combined into one. No game files or NVIDIA files included.",
       "sources": [
-        "github",
-        "gittrend"
+        "gittrend",
+        "trendshift"
       ]
     },
     {
-      "fullName": "zhouxiaoka/autoclip",
-      "description": "AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。",
-      "descriptionKo": "AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。",
+      "fullName": "stablyai/orca",
+      "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
+      "descriptionKo": "코딩 에이전트 플릿 데스크톱·모바일 런타임",
       "sources": [
-        "github",
-        "gittrend"
+        "gittrend",
+        "trendshift"
       ]
     },
     {
-      "fullName": "Belobug/VIctory-Belobug-AMD",
-      "description": "A high-performance Rust library for quantum calibration experiment visualization, offering a fast and flexible alternative to traditional plotting tools in the quantum computing domain.",
-      "descriptionKo": "A high-performance Rust library for quantum calibration experiment visualization, offering a fast and flexible alternative to traditional plotting tools in the quantum computing domain.",
+      "fullName": "nexu-io/opengame",
+      "description": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
+      "descriptionKo": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
+      "sources": [
+        "gittrend",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "togg53192-cmd/jailbreaks",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "descriptionKo": "LIST OF ALL MY JAILBREAKS",
+      "sources": [
+        "gittrend",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "Reukix/Reloc",
+      "description": "iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)",
+      "descriptionKo": "iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)",
+      "sources": [
+        "gittrend",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "DeadInternetStudios/100x-engineer-skill",
+      "description": "100x is a skill by a former Cursor engineer that turns prompts into formally verified, production-ready code",
+      "descriptionKo": "100x is a skill by a former Cursor engineer that turns prompts into formally verified, production-ready code",
+      "sources": [
+        "gittrend",
+        "trendshift"
+      ]
+    },
+    {
+      "fullName": "VUILabsAI/Luna-Translator",
+      "description": "Self-hosted real-time speech-to-speech translation with live captions and translated audio. Web community edition and a Go quickstart for the VUI Labs v3 API.",
+      "descriptionKo": "Self-hosted real-time speech-to-speech translation with live captions and translated audio. Web community edition and a Go quickstart for the VUI Labs v3 API.",
       "sources": [
         "gittrend",
         "trendshift"
@@ -49,7 +85,61 @@
   ],
   "morning": [
     {
-      "id": "m-2026-11-27-e-0",
+      "id": "m-2026-11-28-e-0",
+      "project": "stablyai/orca",
+      "level": "easy",
+      "english": "Orca lets you run coding agents on desktop and remote runtime.",
+      "korean": "Orca는 데스크톱과 원격 런타임에서 코딩 에이전트를 실행할 수 있게 해줍니다.",
+      "url": "https://github.com/stablyai/orca",
+      "recycledWords": [
+        "agents",
+        "runtime",
+        "remote"
+      ],
+      "gloss": {
+        "agents": "에이전트들 (자율 AI 프로그램들)",
+        "runtime": "런타임 (프로그램 실행 환경)",
+        "remote": "원격의"
+      },
+      "checkQuestion": {
+        "q": "Orca로 무엇을 실행할 수 있나요?",
+        "options": [
+          "코딩 에이전트",
+          "3D 게임 엔진"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-28-m-1",
+      "project": "stablyai/orca",
+      "level": "mid",
+      "english": "Orca lets you run a fleet of coding agents with your own subscription across desktop, mobile and remote runtimes.",
+      "korean": "Orca는 사용자의 구독을 사용해 데스크톱, 모바일, 원격 런타임 전반에서 코딩 에이전트 플릿을 실행할 수 있게 합니다.",
+      "url": "https://github.com/stablyai/orca",
+      "recycledWords": [
+        "agents",
+        "runtimes",
+        "remote",
+        "fleet"
+      ],
+      "gloss": {
+        "agents": "에이전트들 (자율 AI 프로그램들)",
+        "runtimes": "런타임 환경들",
+        "remote": "원격의",
+        "fleet": "무리, 여러 대"
+      },
+      "checkQuestion": {
+        "q": "Orca가 지원하는 런타임 환경은?",
+        "options": [
+          "데스크톱, 모바일, 원격 런타임",
+          "오직 리눅스 서버만 지원"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "id": "m-2026-11-28-e-2",
       "project": "obra/superpowers",
       "level": "easy",
       "english": "superpowers is a trending open-source tool that helps developers build better workflows.",
@@ -75,7 +165,7 @@
       }
     },
     {
-      "id": "m-2026-11-27-m-1",
+      "id": "m-2026-11-28-m-3",
       "project": "obra/superpowers",
       "level": "mid",
       "english": "An agentic skills framework & software development methodology that works.",
@@ -99,12 +189,12 @@
       }
     },
     {
-      "id": "m-2026-11-27-e-2",
-      "project": "firecrawl/firecrawl",
+      "id": "m-2026-11-28-e-4",
+      "project": "mjmirza/app-store-compliance",
       "level": "easy",
-      "english": "firecrawl is a trending open-source tool that helps developers build better workflows.",
-      "korean": "firecrawl은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.).",
-      "url": "https://github.com/firecrawl/firecrawl",
+      "english": "app-store-compliance is a trending open-source tool that helps developers build better workflows.",
+      "korean": "app-store-compliance은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.).",
+      "url": "https://github.com/mjmirza/app-store-compliance",
       "recycledWords": [
         "workflows",
         "build",
@@ -116,7 +206,7 @@
         "open-source": "오픈소스의"
       },
       "checkQuestion": {
-        "q": "firecrawl은(는) 어떤 프로젝트인가요?",
+        "q": "app-store-compliance은(는) 어떤 프로젝트인가요?",
         "options": [
           "오늘 주목받는 오픈소스 개발 도구",
           "하드웨어 장비"
@@ -125,78 +215,30 @@
       }
     },
     {
-      "id": "m-2026-11-27-m-3",
-      "project": "firecrawl/firecrawl",
+      "id": "m-2026-11-28-m-5",
+      "project": "mjmirza/app-store-compliance",
       "level": "mid",
-      "english": "Knowledge infrastructure to make your agents smarter.",
-      "korean": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "recycledWords": [
-        "agents"
-      ],
-      "gloss": {
-        "agents": "에이전트들 (자율 AI 프로그램들)"
-      },
-      "checkQuestion": {
-        "q": "firecrawl의 설명으로 올바른 것은?",
-        "options": [
-          "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-          "전혀 다른 프로젝트"
-        ],
-        "answer": 0
-      }
-    },
-    {
-      "id": "m-2026-11-27-e-4",
-      "project": "XiaoYouChR/Ghost-Downloader-3",
-      "level": "easy",
-      "english": "Ghost-Downloader-3 is a trending open-source tool that helps developers build better workflows.",
-      "korean": "Ghost-Downloader-3은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (The only downloader you need. 下载器的集大成者。).",
-      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
-      "recycledWords": [
-        "workflows",
-        "build",
-        "open-source"
-      ],
-      "gloss": {
-        "workflows": "워크플로들 (작업 절차들)",
-        "build": "만들다, 구축하다",
-        "open-source": "오픈소스의"
-      },
-      "checkQuestion": {
-        "q": "Ghost-Downloader-3은(는) 어떤 프로젝트인가요?",
-        "options": [
-          "오늘 주목받는 오픈소스 개발 도구",
-          "하드웨어 장비"
-        ],
-        "answer": 0
-      }
-    },
-    {
-      "id": "m-2026-11-27-m-5",
-      "project": "XiaoYouChR/Ghost-Downloader-3",
-      "level": "mid",
-      "english": "The only downloader you need.",
-      "korean": "The only downloader you need. 下载器的集大成者。",
-      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "english": "Avoid common App Store and Google Play rejections.",
+      "korean": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "url": "https://github.com/mjmirza/app-store-compliance",
       "recycledWords": [],
       "gloss": {},
       "checkQuestion": {
-        "q": "Ghost-Downloader-3의 설명으로 올바른 것은?",
+        "q": "app-store-compliance의 설명으로 올바른 것은?",
         "options": [
-          "The only downloader you need. 下载器的集大成者。",
+          "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
           "전혀 다른 프로젝트"
         ],
         "answer": 0
       }
     },
     {
-      "id": "m-2026-11-27-e-6",
-      "project": "zhouxiaoka/autoclip",
+      "id": "m-2026-11-28-e-6",
+      "project": "trustno1-coder/VIctory-NVIDIA",
       "level": "easy",
-      "english": "autoclip is a trending open-source tool that helps developers build better workflows.",
-      "korean": "autoclip은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。).",
-      "url": "https://github.com/zhouxiaoka/autoclip",
+      "english": "VIctory-NVIDIA is a trending open-source tool that helps developers build better workflows.",
+      "korean": "VIctory-NVIDIA은(는) 개발자의 워크플로를 돕는 오픈소스 도구입니다 (VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks. Built on many repos combined into one. No game files or NVIDIA files included.).",
+      "url": "https://github.com/trustno1-coder/VIctory-NVIDIA",
       "recycledWords": [
         "workflows",
         "build",
@@ -208,7 +250,7 @@
         "open-source": "오픈소스의"
       },
       "checkQuestion": {
-        "q": "autoclip은(는) 어떤 프로젝트인가요?",
+        "q": "VIctory-NVIDIA은(는) 어떤 프로젝트인가요?",
         "options": [
           "오늘 주목받는 오픈소스 개발 도구",
           "하드웨어 장비"
@@ -217,22 +259,18 @@
       }
     },
     {
-      "id": "m-2026-11-27-m-7",
-      "project": "zhouxiaoka/autoclip",
+      "id": "m-2026-11-28-m-7",
+      "project": "trustno1-coder/VIctory-NVIDIA",
       "level": "mid",
-      "english": "AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions.",
-      "korean": "AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。",
-      "url": "https://github.com/zhouxiaoka/autoclip",
-      "recycledWords": [
-        "open-source"
-      ],
-      "gloss": {
-        "open-source": "오픈소스의"
-      },
+      "english": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks.",
+      "korean": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks. Built on many repos combined into one. No game files or NVIDIA files included.",
+      "url": "https://github.com/trustno1-coder/VIctory-NVIDIA",
+      "recycledWords": [],
+      "gloss": {},
       "checkQuestion": {
-        "q": "autoclip의 설명으로 올바른 것은?",
+        "q": "VIctory-NVIDIA의 설명으로 올바른 것은?",
         "options": [
-          "AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。",
+          "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks. Built on many repos combined into one. No game files or NVIDIA files included.",
           "전혀 다른 프로젝트"
         ],
         "answer": 0
@@ -246,19 +284,44 @@
   },
   "recycledVocab": [
     {
-      "word": "open-source",
-      "count": 5,
-      "ko": "오픈소스의"
-    },
-    {
       "word": "workflows",
-      "count": 4,
+      "count": 3,
       "ko": "워크플로들 (작업 절차들)"
     },
     {
       "word": "build",
-      "count": 4,
+      "count": 3,
       "ko": "만들다, 구축하다"
+    },
+    {
+      "word": "open-source",
+      "count": 3,
+      "ko": "오픈소스의"
+    },
+    {
+      "word": "agents",
+      "count": 2,
+      "ko": "에이전트들 (자율 AI 프로그램들)"
+    },
+    {
+      "word": "remote",
+      "count": 2,
+      "ko": "원격의"
+    },
+    {
+      "word": "runtime",
+      "count": 1,
+      "ko": "런타임 (프로그램 실행 환경)"
+    },
+    {
+      "word": "runtimes",
+      "count": 1,
+      "ko": "런타임 환경들"
+    },
+    {
+      "word": "fleet",
+      "count": 1,
+      "ko": "무리, 여러 대"
     },
     {
       "word": "framework",
@@ -269,19 +332,14 @@
       "word": "skills",
       "count": 1,
       "ko": "스킬들"
-    },
-    {
-      "word": "agents",
-      "count": 1,
-      "ko": "에이전트들 (자율 AI 프로그램들)"
     }
   ],
   "counts": {
     "github": 15,
     "gittrend": 20,
-    "trendshift": 30,
+    "trendshift": 29,
     "starhistory": 0,
-    "unique": 60,
-    "multi": 5
+    "unique": 55,
+    "multi": 9
   }
 }
